@@ -46,7 +46,7 @@ If a previous clinician helped by ruling out danger, name that gratitude explici
 You can advocate without attacking. Try questions that open diagnostic thinking:
 
 1. “I understand serious disease has been ruled out. What mechanical or functional causes are still possible in my case?”
-2. “Based on my pattern (worse with X, better with Y) what is your leading hypothesis?”
+2. “Based on my pattern (worse with X, better with Y), what is your leading hypothesis?”
 3. “Could this involve the facet joints, the sacroiliac joint, myofascial trigger points, or referral from another region?”
 4. “What would you expect to find on a hands-on examination if this were primarily mechanical?”
 5. “If this plan does not help in four to six weeks, what is our next diagnostic step?”

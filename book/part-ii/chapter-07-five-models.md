@@ -50,7 +50,7 @@ Neurological specificity sounds like this: “Your L2–L3 segment is facilitate
 
 ### Red Flags Inside the Neurological Camera
 
-The neurological model also keeps us honest about emergencies and true radiculopathy. Progressive weakness, saddle anesthesia, bowel or bladder change, fever with back pain, these are not invitations to subtle reflex reasoning. They are invitations to urgent referral. Osteopathic specificity includes the courage to stop treating and start protecting. When nerve-root compression is clear and correlating, collaboration with medicine and possibly surgery is part of the model, not a failure of it.
+The neurological model also keeps us honest about emergencies and true radiculopathy. Progressive weakness, saddle anesthesia, bowel or bladder change, fever with back pain: these are not invitations to subtle reflex reasoning. They are invitations to urgent referral. Osteopathic specificity includes the courage to stop treating and start protecting. When nerve-root compression is clear and correlating, collaboration with medicine and possibly surgery is part of the model, not a failure of it.
 
 ## The Respiratory-Circulatory Model
 
@@ -98,7 +98,7 @@ A specific behavioral driver might be: “You brace before every sit-to-stand be
 
 ### Work, Sport, and the Environments That Reinjure
 
-Behavior includes the environments we cannot shrug off. A nurse who repeatedly transfers patients, a driver who sits in vibration for ten hours, a caregiver who lifts a child with special needs, these are biomechanical exposures inside a psychosocial frame. Osteopathic advice that ignores job reality becomes another failed protocol. Sometimes the specific intervention is advocacy for workplace modification, job sharing, or temporary task change, conversations that feel political because they are. Bodies live in economies. The fifth model refuses to pretend otherwise.
+Behavior includes the environments we cannot shrug off. A nurse who repeatedly transfers patients, a driver who sits in vibration for ten hours, a caregiver who lifts a child with special needs: these are biomechanical exposures inside a psychosocial frame. Osteopathic advice that ignores job reality becomes another failed protocol. Sometimes the specific intervention is advocacy for workplace modification, job sharing, or temporary task change, conversations that feel political because they are. Bodies live in economies. The fifth model refuses to pretend otherwise.
 
 ### Model Dominance Versus Model Collaboration
 

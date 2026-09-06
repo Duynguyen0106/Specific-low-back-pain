@@ -142,16 +142,16 @@ Putting on socks / rising from chair / walking 20 minutes / sleeping through the
 
 The manuscript refers to relationships that readers grasp more quickly with visual support. The published edition should include professionally drawn figures such as:
 
-1. **Fascial continuity maps**, trunk and lower-limb fascial lines illustrating how a “lumbar” complaint may be driven by hip, diaphragm, or lower-limb restriction.
+1. **Fascial continuity maps**: trunk and lower-limb fascial lines illustrating how a “lumbar” complaint may be driven by hip, diaphragm, or lower-limb restriction.
 2. **Dermatome charts** alongside **myofascial referral maps**, to teach patients and clinicians the difference between radicular and referred patterns.
-3. **Viscero-somatic segmental charts**, linking organ afferent levels to common paraspinal facilitation zones relevant to low back pain differential diagnosis.
-4. **Pelvic and sacral positional diagnosis diagrams**, innominate rotations, sacral torsions/shears, and load-transfer arrows for form and force closure.
-5. **Facet loading illustrations**, extension-rotation mechanisms and typical pain referral fields for lumbar facet syndrome.
-6. **Flowchart A: Rule-out algorithm**, red flags → urgent pathway; inflammatory clues → rheumatology pathway; neurologic deficit → imaging/surgical review.
-7. **Flowchart B: Find-out algorithm**, after clearance, branch into facet, SIJD, myofascial, discogenic, hip-spine, and viscero-somatic assessment streams, with reassessment loops.
-8. **Side-by-side model comparison**, table or infographic of allopathic strengths (acute care, pharmacology, surgery) vs osteopathic strengths (functional/mechanical/chronic specificity), with collaboration arrows (supports Chapter 13).
-9. **TART schematic**, simple visual of tissue texture, asymmetry, restriction, tenderness at a lumbar segment.
-10. **Before/after conceptual elastography panel**, illustrative (not patient-identifiable) graphic showing how imaging research might corroborate palpatory stiffness change after OMT (supports Chapter 14).
+3. **Viscero-somatic segmental charts**: linking organ afferent levels to common paraspinal facilitation zones relevant to low back pain differential diagnosis.
+4. **Pelvic and sacral positional diagnosis diagrams**: innominate rotations, sacral torsions/shears, and load-transfer arrows for form and force closure.
+5. **Facet loading illustrations**: extension-rotation mechanisms and typical pain referral fields for lumbar facet syndrome.
+6. **Flowchart A: Rule-out algorithm**: red flags → urgent pathway; inflammatory clues → rheumatology pathway; neurologic deficit → imaging/surgical review.
+7. **Flowchart B: Find-out algorithm**: after clearance, branch into facet, SIJD, myofascial, discogenic, hip-spine, and viscero-somatic assessment streams, with reassessment loops.
+8. **Side-by-side model comparison**: table or infographic of allopathic strengths (acute care, pharmacology, surgery) vs osteopathic strengths (functional/mechanical/chronic specificity), with collaboration arrows (supports Chapter 13).
+9. **TART schematic**: simple visual of tissue texture, asymmetry, restriction, tenderness at a lumbar segment.
+10. **Before/after conceptual elastography panel**: illustrative (not patient-identifiable) graphic showing how imaging research might corroborate palpatory stiffness change after OMT (supports Chapter 14).
 
 Figures should be labelled in plain language with optional clinician captions, matching the book’s dual audience.
 

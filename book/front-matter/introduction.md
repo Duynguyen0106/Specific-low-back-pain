@@ -30,9 +30,9 @@ Before this book found its name, it wore several working titles. *Beyond Non-Spe
 
 I am writing for two audiences at once, and I will not pretend they are the same.
 
-If you are a patient (or the partner, parent, or friend of someone in pain) you will find stories, explanations, and a vocabulary that can help you ask better questions. You do not need to become an anatomist. You do need permission to distrust a label that ends inquiry. You need to know that “non-specific” is often a statement about the model, not about your body.
+If you are a patient (or the partner, parent, or friend of someone in pain), you will find stories, explanations, and a vocabulary that can help you ask better questions. You do not need to become an anatomist. You do need permission to distrust a label that ends inquiry. You need to know that “non-specific” is often a statement about the model, not about your body.
 
-If you are a clinician (osteopath, physiotherapist, physician, chiropractor, nurse practitioner, or student) you will find a defense of osteopathic reasoning that is neither nostalgic nor anti-science. The goal is not to replace evidence with folklore. The goal is to restore specificity where population-level categories have flattened individual bodies into averages. I will use clinical language and explain it as I go, because translation is part of care.
+If you are a clinician (osteopath, physiotherapist, physician, chiropractor, nurse practitioner, or student), you will find a defense of osteopathic reasoning that is neither nostalgic nor anti-science. The goal is not to replace evidence with folklore. The goal is to restore specificity where population-level categories have flattened individual bodies into averages. I will use clinical language and explain it as I go, because translation is part of care.
 
 Both audiences share a problem: the current medical model is excellent at identifying catastrophic causes of back pain and often impoverished at explaining the rest. Disc herniations that compress nerves, fractures, infections, tumors, cauda equina syndrome, these demand urgent, specific pathways. But most people with low back pain do not have those conditions. They have pain that is real, limiting, and frequently dismissed into a bucket labeled non-specific. That bucket is where osteopathy does some of its most important work.
 
@@ -72,7 +72,7 @@ This book is organized in four parts, each building on the last.
 
 **Part I** examines the problem of non-specificity itself: how the medical system came to rely on the label, what imaging can and cannot settle, why symptom-based pathways often stall, and how patients experience the quiet violence of being told their pain has no clear cause. It is diagnostic in the cultural sense, an anatomy of a failed category.
 
-**Part II**, which follows this introduction most directly in spirit, returns to the osteopathic paradigm as a philosophy of specificity. You will meet Still’s principles not as museum pieces but as working tools: structure governs function; the body is a unit; the body heals itself when obstacles are removed; and care can be organized through five interrelated models, biomechanical, neurological, respiratory-circulatory, metabolic-energy, and behavioral-biopsychosocial. These chapters are the intellectual heart of the book’s method.
+**Part II**, which follows this introduction most directly in spirit, returns to the osteopathic paradigm as a philosophy of specificity. You will meet Still’s principles not as museum pieces but as working tools: structure governs function; the body is a unit; the body heals itself when obstacles are removed; and care can be organized through five interrelated models: biomechanical, neurological, respiratory-circulatory, metabolic-energy, and behavioral-biopsychosocial. These chapters are the intellectual heart of the book’s method.
 
 **Part III** brings the method into the treatment room: assessment, the language of somatic dysfunction, common drivers of low back pain that live outside the “lumbar-only” frame, and the practical art of finding the lesion that matters rather than the lesion that is loudest.
 

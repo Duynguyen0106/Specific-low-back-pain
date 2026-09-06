@@ -58,11 +58,11 @@ Patients feel the difference as respect. Students feel it as a reason to study. 
 
 Naming is only the first reform. Each sub-classification must earn its keep through operational definition:
 
-1. **Inclusion features**, history and examination findings that raise probability.
-2. **Exclusion features**, findings that push the clinician toward alternate labels or red-flag pathways.
-3. **Palpatory and motion criteria**, standardized enough to teach and study, flexible enough for clinical reality.
-4. **Predicted treatment response**, what should improve if the diagnosis is roughly right.
-5. **Revision rules**, when to abandon or modify the label.
+1. **Inclusion features**: history and examination findings that raise probability.
+2. **Exclusion features**: findings that push the clinician toward alternate labels or red-flag pathways.
+3. **Palpatory and motion criteria**: standardized enough to teach and study, flexible enough for clinical reality.
+4. **Predicted treatment response**: what should improve if the diagnosis is roughly right.
+5. **Revision rules**: when to abandon or modify the label.
 
 This is how cardiology talks about heart failure phenotypes and how sports medicine talks about tendinopathy stages. Low back pain deserves equal intellectual respect.
 
@@ -175,6 +175,6 @@ Patients deserve copies of their working diagnosis in plain language. Transparen
 
 The future of low back pain diagnosis is not a gadget, a guideline alone, or a single profession’s victory. It is a culture that treats persistent pain as a puzzle worth solving, after safety is assured. Osteopathy brings to that culture a language of dysfunction, a craft of palpation, and a stubborn belief that normal scans do not equal normal function.
 
-When medicine replaces “non-specific” with named mechanisms (lumbar facet syndrome, SIJD, myofascial pain, viscero-somatic referral, and their kin) patients will gain more than vocabulary. They will gain pathways matched to cause. Research will gain hypotheses worth testing. Technology will gain targets worth measuring. And the old quiet humiliation of being told that nothing is wrong, when everything still hurts, may finally begin to recede.
+When medicine replaces “non-specific” with named mechanisms (lumbar facet syndrome, SIJD, myofascial pain, viscero-somatic referral, and their kin), patients will gain more than vocabulary. They will gain pathways matched to cause. Research will gain hypotheses worth testing. Technology will gain targets worth measuring. And the old quiet humiliation of being told that nothing is wrong, when everything still hurts, may finally begin to recede.
 
 Tissue has been telling the truth all along. The future belongs to diagnostic systems willing to write that truth down.

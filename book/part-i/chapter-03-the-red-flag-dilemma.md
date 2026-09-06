@@ -74,7 +74,7 @@ A young accountant named Leah cleared every red flag in two clinics and a virtua
 
 ### False Negatives, False Reassurance, and Shared Vigilance
 
-Honesty requires another admission: red-flag screening is not perfect. Serious pathology can present without classic flags, especially early. Mechanical-feeling pain can coexist with disease. This is why safety-netting advice exists, return if night pain worsens, if neurology changes, if systemic symptoms appear. Osteopaths must safety-net too. Ruling in dysfunction never cancels ongoing vigilance.
+Honesty requires another admission: red-flag screening is not perfect. Serious pathology can present without classic flags, especially early. Mechanical-feeling pain can coexist with disease. This is why safety-netting advice exists: return if night pain worsens, if neurology changes, if systemic symptoms appear. Osteopaths must safety-net too. Ruling in dysfunction never cancels ongoing vigilance.
 
 Shared vigilance is the adult form of the dilemma's resolution. Medicine rules out what it can, osteopathy rules in what it can, and both remain willing to reopen the dangerous questions if the story shifts. Turf battles help no patient. A phone call between osteopath and GP about a changing symptom profile is worth more than a hundred online arguments about which profession "owns" the spine.
 

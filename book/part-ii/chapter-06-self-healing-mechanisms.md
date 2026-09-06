@@ -36,7 +36,7 @@ We treated gently (diaphragm, thoracolumbar junction, sacral base), less to “p
 
 ### The Difference Between Stimulus and Healing
 
-It helps to separate *stimulus* from *healing*. A thrust, a soft-tissue release, an exercise, a medication, these are stimuli. Healing is the cascade that follows: reduced nociception, improved perfusion, normalized muscle tone, restored sleep, revised prediction of danger, remodeled connective tissue. Clinicians control stimuli. Bodies own healing. Confusing the two produces the fixer fantasy and the consumer fantasy alike, the idea that the right purchase of stimulus equals repaired biology on demand.
+It helps to separate *stimulus* from *healing*. A thrust, a soft-tissue release, an exercise, a medication: these are stimuli. Healing is the cascade that follows: reduced nociception, improved perfusion, normalized muscle tone, restored sleep, revised prediction of danger, remodeled connective tissue. Clinicians control stimuli. Bodies own healing. Confusing the two produces the fixer fantasy and the consumer fantasy alike, the idea that the right purchase of stimulus equals repaired biology on demand.
 
 Osteopathic self-healing philosophy trains us to choose stimuli that the system can integrate. Dose matters. Timing matters. A useful question after every intervention is not only “Did motion improve?” but “Did the system accept this?” Acceptance looks like softer breath, warmer limbs, clearer thinking, less guarding on retesting. Rejection looks like flared pain, shallow breath, protective spasm, a patient who leaves pale and quiet. Learning to read acceptance is how we partner with repair instead of bullying it.
 
@@ -149,4 +149,4 @@ Removing restrictions in service of self-healing requires more than one lens. So
 
 Hope without a mechanism is wishfulness. The self-healing principle supplies mechanism: remove obstruction, restore motion and fluid flow, quiet threat, protect sleep, and let physiology finish what injury interrupted. That is not optimism as personality. It is optimism as method. Patients feel the difference when clinicians work from that method rather than from rescue fantasies.
 
-For now, hold this chapter’s correction close: you are not a broken machine waiting for a clever fixer. You are a living system that heals when the rocks are moved from the hose. Osteopathy, at its best, moves rocks, quietly, precisely, and with enough respect for the garden to know that green return belongs to the plant.
+For now, hold this chapter’s correction close: you are not a broken machine waiting for a clever fixer. You are a living system that heals when the rocks are moved from the hose. Osteopathy, at its best, moves rocks: quietly, precisely, and with enough respect for the garden to know that green return belongs to the plant.

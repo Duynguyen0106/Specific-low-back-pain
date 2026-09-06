@@ -109,7 +109,7 @@ Jonah’s piriformis narrative should widen, not narrow, your peripheral neural 
 
 ### When Conservative Specificity Should Yield
 
-Visceral manipulation is not a treatment for acute appendicitis, bowel obstruction, or undiagnosed rectal bleeding. Piriformis work is not a treatment for progressive foot drop from a sequestrated disc. Specificity includes exit ramps. Margaret had already been medically screened; Jonah had intact neurology and non-correlating MRI. If either story had shifted (fever, bloody stool, true myotomal loss) the toolkit would have changed from treatment to escort toward medicine.
+Visceral manipulation is not a treatment for acute appendicitis, bowel obstruction, or undiagnosed rectal bleeding. Piriformis work is not a treatment for progressive foot drop from a sequestrated disc. Specificity includes exit ramps. Margaret had already been medically screened; Jonah had intact neurology and non-correlating MRI. If either story had shifted (fever, bloody stool, true myotomal loss), the toolkit would have changed from treatment to escort toward medicine.
 
 Hold that exit ramp beside the success narratives so that passion for osteopathic listening never becomes a refusal to hear medical truth.
 
