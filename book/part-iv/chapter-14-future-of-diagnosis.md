@@ -85,7 +85,7 @@ Research culture matters as much as research questions. Negative trials must be 
 
 Pragmatic trial designs should also track medication reduction, recurrence at six and twelve months, and work participation. A technique that lowers pain by a point for two weeks but does not change disability is less interesting than one that restores sitting tolerance and reduces flare frequency over a year. Osteopathy’s clinical anecdotes often concern recurrence; research should stop ignoring that endpoint.
 
-Funding bodies need persuasion. Musculoskeletal pain’s ubiquity makes it paradoxically easy to underfund mechanism research: “everyone has back pain” becomes an excuse for generic advice rather than a reason for scientific investment. Osteopathic institutions, universities, and public health agencies can co-fund centres that pair palpatory reliability labs with imaging physics and clinical trials units. Without infrastructure, Chapter 14’s future remains rhetoric.
+Funding bodies need persuasion. Musculoskeletal pain’s ubiquity makes it paradoxically easy to underfund mechanism research: “everyone has back pain” becomes an excuse for generic advice rather than a reason for scientific investment. Osteopathic institutions, universities, and public health agencies can co-fund centres that pair palpatory reliability labs with imaging physics and clinical trials units. Without infrastructure, this chapter’s future remains rhetoric.
 
 Partnerships with academic allopathic departments will strengthen methods and credibility. Collaboration is not dilution. It is how palpatory medicine enters the same evidential conversation as other complex clinical skills.
 

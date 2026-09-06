@@ -5,7 +5,7 @@ This glossary defines terms used throughout *Tissue Tells the Truth* for patient
 ---
 
 **Allopathic medicine** 
-A common term for mainstream biomedical medical practice emphasizing diagnosis of disease, pharmacologic therapy, procedures, and surgery. In this book it names a complementary partner to osteopathy, not an enemy. Many osteopathic physicians practice at the intersection of both traditions.
+A common term for mainstream biomedical practice emphasizing diagnosis of disease, pharmacologic therapy, procedures, and surgery. In this book it names a complementary partner to osteopathy, not an enemy. Many osteopathic physicians practice at the intersection of both traditions.
 
 **Asymmetry** 
 Uneven position or tissue findings when left and right (or other paired landmarks) are compared. One of the classic palpatory components of somatic dysfunction (see **TART**).

@@ -1,4 +1,4 @@
-# Part IV: Bridging the Gap, A Vision for Integrated Care
+# Part IV, Bridging the Gap: A Vision for Integrated Care
 
 Low back pain does not respect professional boundaries. It does not ask whether the clinician who walks into the room trained in osteopathic medicine, allopathic orthopedics, physical therapy, or pain psychology. It asks only whether someone will listen carefully enough, examine thoroughly enough, and think broadly enough to find a cause that can be treated.
 

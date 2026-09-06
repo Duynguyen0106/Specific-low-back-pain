@@ -64,19 +64,19 @@ I have sat with patients who apologized for taking up my time because a prior cl
 
 ### A Dual Audience, One Standard of Honesty
 
-Writing for patients and clinicians together is a deliberate choice. Too many books split into peer-reviewed density on one shelf and oversimplified inspiration on another. Patients can understand more than marketing assumes. Clinicians need reminder of the human stakes that protocols obscure. Where I simplify, I will say so. Where evidence is incomplete, I will say so. Osteopathy has areas of strong clinical tradition and areas where research is still catching up; pretending otherwise helps no one. What I will not do is wait for perfect evidence to describe imperfect suffering that responds, day after day, to specific hands and specific reasoning.
+Writing for patients and clinicians together is a deliberate choice. Too many books split into peer-reviewed density on one shelf and oversimplified inspiration on another. Patients can understand more than marketing assumes. Clinicians need a reminder of the human stakes that protocols obscure. Where I simplify, I will say so. Where evidence is incomplete, I will say so. Osteopathy has areas of strong clinical tradition and areas where research is still catching up; pretending otherwise helps no one. What I will not do is wait for perfect evidence to describe imperfect suffering that responds, day after day, to specific hands and specific reasoning.
 
 ### What You Will Find in These Pages
 
 This book is organized in four parts, each building on the last.
 
-**Part I** examines the problem of non-specificity itself: how the medical system came to rely on the label, what imaging can and cannot settle, why symptom-based pathways often stall, and how patients experience the quiet violence of being told their pain has no clear cause. It is diagnostic in the cultural sense, an anatomy of a failed category.
+**Part I, The Problem with “Non-Specific,”** examines how the medical system came to rely on that label, what imaging can and cannot settle, why the allopathic formula of pills, rest, and generic exercise often stalls, and how the red-flag pathway, for all its brilliance, too often ends inquiry precisely when osteopathic medicine is ready to begin. It is diagnostic in the cultural sense: an anatomy of a failed category.
 
-**Part II**, which follows this introduction most directly in spirit, returns to the osteopathic paradigm as a philosophy of specificity. You will meet Still’s principles not as museum pieces but as working tools: structure governs function; the body is a unit; the body heals itself when obstacles are removed; and care can be organized through five interrelated models: biomechanical, neurological, respiratory-circulatory, metabolic-energy, and behavioral-biopsychosocial. These chapters are the intellectual heart of the book’s method.
+**Part II, The Osteopathic Paradigm: A Philosophy of Specificity,** returns to osteopathy’s founding principles as working tools: structure governs function; the body is a unit; the body heals itself when obstacles are removed; and care can be organized through five interrelated models (biomechanical, neurological, respiratory-circulatory, metabolic-energy, and behavioral-biopsychosocial). These chapters are the intellectual heart of the book’s method.
 
-**Part III** brings the method into the treatment room: assessment, the language of somatic dysfunction, common drivers of low back pain that live outside the “lumbar-only” frame, and the practical art of finding the lesion that matters rather than the lesion that is loudest.
+**Part III, The Clinical Reality: No Formula, Only Principles,** brings the method onto the clinic floor. You will meet palpation as craft, paired case studies of biomechanical drivers and of visceral and neurological drivers, the quiet failure of one-size-fits-all protocols, and a technique toolkit ordered by diagnosis rather than by tribal preference. There is no universal lumbar recipe here, only principles strong enough to individualize care.
 
-**Part IV** turns toward recovery and meaning: how patients participate in their own healing, how clinicians avoid turning osteopathy into another rigid protocol, and how a culture that recovers specificity might change the way we talk about pain.
+**Part IV, Bridging the Gap: A Vision for Integrated Care,** holds osteopathic and allopathic strengths in the same frame: where the models meet and should collaborate, what a more specific future of low back pain diagnosis could look like, and how patients can advocate for themselves when “non-specific” has become a stopping point rather than a starting point.
 
 Throughout, you will meet composite and anonymized clinical vignettes. Details have been altered to protect privacy; the patterns are real. Where I use jargon, I will define it. Where I criticize the system, I will try to do so without contempt for the people working inside it. Most clinicians I know are doing their best within models that reward speed, imaging, and categorization. The failure is structural. The remedy is not blame; it is a better map.
 
@@ -105,9 +105,3 @@ Elena’s folder is thinner now. She kept one MRI report, less as evidence of di
 That attention has a name. It is osteopathic. It is also simply good medicine, curious, embodied, and unwilling to confuse the limits of a model with the limits of a human being.
 
 Tissue tells the truth. This book is an attempt to teach you how to listen, and why the listening matters.
-
----
-
-### Foreword Placeholder
-
-*[An invited foreword may be placed here in a later edition. Ideal contributors include a respected osteopathic physician or osteopath known for clinical teaching; a pain researcher whose work bridges biomedical and person-centered models; or a former patient willing to speak to the experience of moving from a “non-specific” label to a coherent explanation and recovery. The foreword should situate this book within contemporary debates on low back pain without requiring the reader to be a specialist.]*

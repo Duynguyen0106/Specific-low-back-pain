@@ -60,7 +60,11 @@ No part of this manuscript may be reproduced, distributed, or transmitted in any
 ### Back Matter
 - Glossary
 - Appendix
- - Research summary on OMT for low back pain
- - Resources for patients and practitioners
- - Intake template for diagnostic specificity
- - Recommended diagrams for the published edition
+  - A. Summary of Relevant Research on OMT for Low Back Pain
+  - B. Resources for Patients and Practitioners
+  - C. Template: Patient Intake Form Encouraging Search for Specificity
+  - D. Recommended Diagrams and Illustrations for the Published Edition
+  - E. Quick Reference: Red Flags for Urgent Review
+  - F. Sample Patient Letter Requesting Specificity
+  - G. Practitioner Checklist: Before Writing “NSLBP”
+  - H. Acknowledgments for Evidence Readers
