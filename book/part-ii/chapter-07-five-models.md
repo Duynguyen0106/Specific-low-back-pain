@@ -167,7 +167,7 @@ You now have the philosophical toolkit. Structure, unity, self-healing, and five
 
 ## Closing Part II: Philosophy as Clinical Courage
 
-Part II has argued that osteopathy offers a philosophy of specificity strong enough to challenge the non-specific label. Structure governs function (so we search for the restriction that rewrites the movement script. The body is a unit) so we follow fascia, viscera, and reflexes beyond the lumbar frame. The body heals itself (so we remove obstacles and respect autonomic climate rather than performing fixer theater. The five models) so we change lenses until the driver comes into focus.
+Part II has argued that osteopathy offers a philosophy of specificity strong enough to challenge the non-specific label. Structure governs function, so we search for the restriction that rewrites the movement script. The body is a unit, so we follow fascia, viscera, and reflexes beyond the lumbar frame. The body heals itself, so we remove obstacles and respect autonomic climate rather than performing fixer theater. The five models let us change lenses until the driver comes into focus.
 
 In Part III, we carry these principles into assessment and treatment in greater clinical detail: how to listen to history as a map of restrictions, how to rank lesions, how common “lumbar” pains are driven from elsewhere, and how to practice specificity without becoming dogmatic. The paradigm is the promise. The treatment room is the proof.
 

@@ -30,9 +30,9 @@ This negotiation cannot be purely mechanical. If you force motion through a syst
 
 ### A Vignette Without Heroics
 
-Priya came in six months after a slip on ice. She had no fracture. She had done physiotherapy diligently. She still could not sit through a meeting. She described her previous care as competent and somehow beside the point, exercises she could perform in the clinic and not in her life, mobilizations that helped for an afternoon. On examination, her lumbar tissues were not dramatically inflamed. They were dry, dense, and hypervigilant. Her breath was apical. Her hands were cool. Her heart rate variability, had we measured it formally, would likely have told the same story her tissues told: a nervous system stuck in defense.
+Meera came in six months after a slip on ice. She had no fracture. She had done physiotherapy diligently. She still could not sit through a meeting. She described her previous care as competent and somehow beside the point, exercises she could perform in the clinic and not in her life, mobilizations that helped for an afternoon. On examination, her lumbar tissues were not dramatically inflamed. They were dry, dense, and hypervigilant. Her breath was apical. Her hands were cool. Her heart rate variability, had we measured it formally, would likely have told the same story her tissues told: a nervous system stuck in defense.
 
-We treated gently (diaphragm, thoracolumbar junction, sacral base) less to “put things back” than to signal safety and restore glide. I asked her to notice warmth returning to her pelvis, breath dropping lower, the impulse to brace softening. Homework was not a heroic core program. It was short walks without bracing, nasal breathing, and permission to stop rehearsing catastrophe. Over weeks, her sitting tolerance returned. The tissues changed quality. She healed. I did not heal her. I helped remove the pattern that kept healing from completing.
+We treated gently (diaphragm, thoracolumbar junction, sacral base), less to “put things back” than to signal safety and restore glide. I asked her to notice warmth returning to her pelvis, breath dropping lower, the impulse to brace softening. Homework was not a heroic core program. It was short walks without bracing, nasal breathing, and permission to stop rehearsing catastrophe. Over weeks, her sitting tolerance returned. The tissues changed quality. She healed. I did not heal her. I helped remove the pattern that kept healing from completing.
 
 ### The Difference Between Stimulus and Healing
 
@@ -131,9 +131,9 @@ The self-healing principle is a stance toward hope that is neither naive nor cru
 
 I have treated older adults whose lumbar spines were galleries of degenerative change and who returned to gardening because we restored what motion and autonomic ease were still available, and because we stopped treating them as doomed architecture. Self-healing does not mean returning to an imaginary original. It means moving toward the best regulated state available now.
 
-### Priya, Revisited: What the Tissue Taught
+### Meera, Revisited: What the Tissue Taught
 
-Months after Priya returned to sitting through meetings, she came back during a stressful project deadline. Symptoms whispered rather than shouted. Her tissues were not as dense as before; they were primed to brace. One session of diaphragmatic and thoracolumbar work, plus a frank talk about workload and breath, settled the flare. She had learned to recognize the autonomic weather before the storm became structural. That learning is self-healing extended into self-knowledge. Osteopathy’s highest success is not a patient who needs us forever. It is a patient who can tell when the hose is kinking and seek help early, or unkink what they can through movement, rest, and regulation.
+Months after Meera returned to sitting through meetings, she came back during a stressful project deadline. Symptoms whispered rather than shouted. Her tissues were not as dense as before; they were primed to brace. One session of diaphragmatic and thoracolumbar work, plus a frank talk about workload and breath, settled the flare. She had learned to recognize the autonomic weather before the storm became structural. That learning is self-healing extended into self-knowledge. Osteopathy’s highest success is not a patient who needs us forever. It is a patient who can tell when the hose is kinking and seek help early, or unkink what they can through movement, rest, and regulation.
 
 
 

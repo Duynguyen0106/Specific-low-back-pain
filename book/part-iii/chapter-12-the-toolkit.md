@@ -159,7 +159,7 @@ Part III began with a refusal of formula and ends with a table of tools. That is
 
 ### Indirect Versus Direct: A Practical Compass
 
-Direct techniques engage the restrictive barrier and move into it (many MET setups, direct myofascial stretch, HVLA through the barrier, articulatory progression toward limitation. Indirect techniques move into ease) counterstrain positioning, some balanced ligamentous and fascial approaches, certain cranial methods. Irritable, acute, fearful, or highly sensitized patients often tolerate indirect first. Chronic, fibrotic, crisp-barrier findings often respond well to direct methods once prepared. Many sessions blend both: indirect to quiet guard, direct to restore a named motion loss, retest, stop.
+Direct techniques engage the restrictive barrier and move into it (many MET setups, direct myofascial stretch, HVLA through the barrier, articulatory progression toward limitation). Indirect techniques move into ease (counterstrain positioning, some balanced ligamentous and fascial approaches, certain cranial methods). Irritable, acute, fearful, or highly sensitized patients often tolerate indirect first. Chronic, fibrotic, crisp-barrier findings often respond well to direct methods once prepared. Many sessions blend both: indirect to quiet guard, direct to restore a named motion loss, retest, stop.
 
 The compass prevents ideology. You are not an “indirect osteopath.” You are an osteopath choosing vector based on tissue readiness.
 

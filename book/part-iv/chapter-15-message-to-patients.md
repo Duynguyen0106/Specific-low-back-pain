@@ -1,4 +1,4 @@
-# Chapter 15: A Message to Patients, How to Advocate for Yourself
+# Chapter 15: A Message to Patients: How to Advocate for Yourself
 
 If you have been told that your low back pain is “non-specific,” you are not alone, and you are not imagining your pain. Non-specific is a clinical phrase that often means “we have not found a dangerous disease,” not “there is no cause.” Those two meanings have been allowed to blur, and patients have paid for the blur with years of quiet doubt. This chapter is written for you: the person who has been scanned, prescribed, reassured, and still hurts; the person who wants to advocate without becoming adversarial; the person ready to ask for a more specific search.
 

@@ -24,7 +24,7 @@ I treat fascia not as a trendy buzzword but as a palpable reality. Restricted fa
 
 ### Viscera Inside the Web
 
-Organs are not floating in emptiness. Kidneys, intestines, liver, uterus, bladder (all have fascial relationships with the musculoskeletal frame. The kidney, for example, has a fascial environment that should allow a small physiologic mobility with breath and posture. When that mobility is lost) after infection, after a blow to the flank, after chronic diaphragmatic tension, after compensatory patterns from a scoliosis, the lumbar spine and psoas receive an altered pull. Patients may describe a deep, dull, unilateral backache that never quite matches a disc story. They may notice that pain worsens with prolonged sitting or with certain phases of digestion and stress. They may have a history that never made it into the orthopedic chart.
+Organs are not floating in emptiness. Kidneys, intestines, liver, uterus, bladder all have fascial relationships with the musculoskeletal frame. The kidney, for example, has a fascial environment that should allow a small physiologic mobility with breath and posture. When that mobility is lost after infection, after a blow to the flank, after chronic diaphragmatic tension, after compensatory patterns from a scoliosis, the lumbar spine and psoas receive an altered pull. Patients may describe a deep, dull, unilateral backache that never quite matches a disc story. They may notice that pain worsens with prolonged sitting or with certain phases of digestion and stress. They may have a history that never made it into the orthopedic chart.
 
 The colon offers another common bridge. A spastic, inflamed, or constipated bowel changes mesenteric tension and autonomic tone. The lumbar and sacral regions, richly supplied with autonomic fibers and fascial links to the gut, become irritable. Patients bounce between gastroenterology and musculoskeletal care, each specialty seeing its piece. The osteopath’s job is not to replace the gastroenterologist. It is to recognize when visceral dysfunction is driving somatic pain, and when somatic restriction is aggravating visceral symptoms, and to treat the relationship.
 
@@ -42,9 +42,9 @@ Not every flank-related backache is a visceral story, and red flags matter: feve
 
 ### When the Colon Recruits the Lumbar Spine
 
-Jonah had “sciatica” that never followed a clean nerve-root pattern. His MRI showed a mild disc bulge that every radiologist hedged. He also had a ten-year history of irritable bowel, worse under work stress, with alternating constipation and urgency. Previous therapists had stretched his piriformis and mobilized his lumbar spine. Relief lasted until his next digestive flare.
+Elliot had “sciatica” that never followed a clean nerve-root pattern. His MRI showed a mild disc bulge that every radiologist hedged. He also had a ten-year history of irritable bowel, worse under work stress, with alternating constipation and urgency. Previous therapists had stretched his piriformis and mobilized his lumbar spine. Relief lasted until his next digestive flare.
 
-On examination, his sacrum and lower lumbar tissues were boggy and facilitated. His abdomen was tight along the descending colon, with tissue texture that spoke of spasm and guarding. When we treated the visceral fascial restriction and spent time normalizing the thoracolumbar autonomic region (not as a cure for IBS, but as a way of reducing the somatic expression of visceral irritability) his leg symptoms quieted in parallel with improved bowel comfort. He still needed dietary and medical management for his gut. He no longer needed to believe his disc was the sole villain.
+On examination, his sacrum and lower lumbar tissues were boggy and facilitated. His abdomen was tight along the descending colon, with tissue texture that spoke of spasm and guarding. When we treated the visceral fascial restriction and spent time normalizing the thoracolumbar autonomic region (not as a cure for IBS, but as a way of reducing the somatic expression of visceral irritability), his leg symptoms quieted in parallel with improved bowel comfort. He still needed dietary and medical management for his gut. He no longer needed to believe his disc was the sole villain.
 
 These vignettes are not proofs in the randomized-trial sense. They are the clinical phenomenology that makes the unit principle unavoidable. If your model cannot hold kidney and colon as relevant to backache, your model will keep minting non-specific labels for specific people.
 
@@ -92,7 +92,7 @@ I often treat the diaphragm not because every backache is a breathing problem, b
 
 The body-as-unit principle also changes history-taking. We ask about surgeries, infections, digestive patterns, menstrual and prostate histories, respiratory habits, dental work, old fractures, births, and grief, not to collect gossip, but to find the timeline of restrictions. A back that “started for no reason” often started after something the musculoskeletal form did not have a box for.
 
-Jonah’s bowel flares were on his intake form under “other.” Nadia’s kidney infection was marked resolved. Elena’s cesarean was listed as obstetric history, irrelevant to spine clinic. The unit principle makes those lines central. Relevance is wider than the lumbar vertebrae.
+Elliot’s bowel flares were on his intake form under “other.” Nadia’s kidney infection was marked resolved. Elena’s cesarean was listed as obstetric history, irrelevant to spine clinic. The unit principle makes those lines central. Relevance is wider than the lumbar vertebrae.
 
 ### The Nervous System as the Unit’s Switchboard
 
@@ -132,13 +132,13 @@ Unity occasionally looks almost absurd until you test it. An old ankle fracture 
 
 If you take one operational habit from this chapter, take this: when low back pain is stubborn, ask what else in the unit is restricted, irritated, or unfinished in its healing. Check the abdomen with permission and skill. Consider the pelvic organs’ fascial world. Assess the diaphragm. Trace scars. Notice whether autonomic signs (sweating, mottled skin, gut urgency, breath-holding) cluster around the painful region. Retest the lumbar findings after treating a distant driver. Let the unit grade your hypothesis.
 
-### A Second Look at Nadia and Jonah
+### A Second Look at Nadia and Elliot
 
 Return briefly to the vignettes, because unity is easier to trust when outcomes have texture.
 
 Nadia did not improve in a straight line. After the first two visits, her flank felt freer and her running gait less guarded, but a long travel day brought symptoms back. That relapse was useful data. It showed that her system could still tip into old splinting when fatigued and dehydrated, metabolic and behavioral overlays on a visceral-fascial story. We adjusted care: more attention to pre-run breath and hydration, continued diaphragmatic and peri-renal fascial work, graded mileage. The point is not a miracle arc. The point is that a unit diagnosis gives you levers when a lumbar-only diagnosis leaves you shrugging.
 
-Jonah required coordination. His gastroenterologist remained in charge of medical management. Osteopathic care reduced the somatic amplification that made every gut flare feel like a disc emergency. As his fear of “the sciatica” lessened, his movement widened, which further helped both gut and back. Specialists who fear osteopathy as competition misunderstand the unit principle. Done ethically, we shrink the non-specific leftover by treating relationships between domains, not by poaching domains.
+Elliot required coordination. His gastroenterologist remained in charge of medical management. Osteopathic care reduced the somatic amplification that made every gut flare feel like a disc emergency. As his fear of “the sciatica” lessened, his movement widened, which further helped both gut and back. Specialists who fear osteopathy as competition misunderstand the unit principle. Done ethically, we shrink the non-specific leftover by treating relationships between domains, not by poaching domains.
 
 Still’s phrase, “the body is a unit,” survives because it keeps clinicians from the loneliness of the isolated part. Low back pain is rarely lonely. It is almost always in relationship. Osteopathic specificity is the art of naming the relationship that matters, and treating it so the back can stop carrying everyone else’s burden.
 

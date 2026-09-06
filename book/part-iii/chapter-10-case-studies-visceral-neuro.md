@@ -93,7 +93,7 @@ Specificity, again, is the ethic. The same word (*sciatica*, *chronic LBP*) can 
 
 ### The Ethics of Touching the Abdomen and the Deep Gluteal Region
 
-Cases C and D require contact that can feel intimate or alarming if poorly framed. Consent for abdominal and deep buttock palpation should be explicit, revisitables, and free of surprise. Explain what you are assessing in ordinary language. Offer a chaperone where appropriate. Drape thoughtfully. Watch the face more than your hands. If the patient braces from fear rather than tenderness, stop and renegotiate.
+Cases C and D require contact that can feel intimate or alarming if poorly framed. Consent for abdominal and deep buttock palpation should be explicit, revisitable, and free of surprise. Explain what you are assessing in ordinary language. Offer a chaperone where appropriate. Drape thoughtfully. Watch the face more than your hands. If the patient braces from fear rather than tenderness, stop and renegotiate.
 
 This ethic is not separate from clinical accuracy. Guarding from violated safety muddies findings and can retraumatize. Visceral and piriformis work belong in the toolkit only when the practitioner’s relational skill matches their anatomical skill.
 
@@ -124,7 +124,7 @@ Jonah’s coding posture was a laboratory for piriformis provocation. Laptop on 
 
 ### Differential Table in Prose
 
-When posterior thigh pain presents, keep at least four doors open. Door one: true radiculopathy from disc or foraminal stenosis (look for hard neuro signs, correlating MRI, lumbar mechanical patterns that clearly peripheralize and centralize. Door two: piriformis or deep gluteal entrapment) buttock provocation dominates, sitting on wallets and hard surfaces aggravates, hip testing reproduces, lumbar findings secondary. Door three: referred pain from lumbar facets or sacroiliac joints without frank nerve compression (more achy referral, less neuropathic language, local joint signs primary. Door four: systemic or sinister referred pain) night pain, visceral clues, vascular claudication timing, progressive constitutional features. Jonah lived in door two with a distracting MRI prop from door one. Margaret, in her way, lived in a viscero-somatic side door that standard lumbar pathways rarely open. Cases exist to keep doors unlocked.
+When posterior thigh pain presents, keep at least four doors open. Door one: true radiculopathy from disc or foraminal stenosis (look for hard neuro signs, correlating MRI, lumbar mechanical patterns that clearly peripheralize and centralize). Door two: piriformis or deep gluteal entrapment (buttock provocation dominates, sitting on wallets and hard surfaces aggravates, hip testing reproduces, lumbar findings secondary). Door three: referred pain from lumbar facets or sacroiliac joints without frank nerve compression (more achy referral, less neuropathic language, local joint signs primary). Door four: systemic or sinister referred pain (night pain, visceral clues, vascular claudication timing, progressive constitutional features). Jonah lived in door two with a distracting MRI prop from door one. Margaret, in her way, lived in a viscero-somatic side door that standard lumbar pathways rarely open. Cases exist to keep doors unlocked.
 
 ### Follow-Up Letters That Educate the System
 

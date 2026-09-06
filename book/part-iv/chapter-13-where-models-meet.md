@@ -48,7 +48,7 @@ Osteopathic manipulative treatment (OMT) then addresses what has been found. Hig
 
 For chronic and recurrent mechanical pain, this approach has a particular advantage: it treats the drivers of compensation. A patient who “keeps throwing out” the same side of the back often has an unresolved pelvic torsion, a short hip flexor chain, a thoracic restriction forcing lumbar shear, or a scar that tethers fascial planes. Addressing only the painful segment is like mopping water while the tap runs. Osteopathy, at its best, finds the tap.
 
-Osteopathy also excels at continuity of narrative. Patients who have been told their pain is non-specific often experience a quiet humiliation (as if their suffering lacked medical legitimacy. A careful osteopathic explanation) “Your right sacroiliac joint is not transferring load well; your lumbar multifidus on that side is inhibited; your diaphragm is restricted and increasing lumbar demand”, does not invent drama. It restores meaning. Meaning is not a soft extra. It is part of how nervous systems settle and how patients engage in care.
+Osteopathy also excels at continuity of narrative. Patients who have been told their pain is non-specific often experience a quiet humiliation, as if their suffering lacked medical legitimacy. A careful osteopathic explanation (“Your right sacroiliac joint is not transferring load well; your lumbar multifidus on that side is inhibited; your diaphragm is restricted and increasing lumbar demand”) does not invent drama. It restores meaning. Meaning is not a soft extra. It is part of how nervous systems settle and how patients engage in care.
 
 ## Where Osteopathy Falters
 
