@@ -42,19 +42,13 @@ Perhaps the most distinctively osteopathic contribution to future taxonomy is th
 
 In future charts, “viscero-somatic referred pain” or “viscero-somatic maintenance of lumbar somatic dysfunction” would appear as legitimate working diagnoses, with clear notes on what visceral pathway is suspected and what collaborative workup is underway. That language invites integration rather than turf war.
 
-**Additional Specific Categories Worth Naming.**
-
 A complete replacement for NSLBP will also include discogenic pain patterns with chemical and mechanical features, stenotic neurogenic claudication where surgery is not yet indicated or not desired, instability and motor control insufficiency syndromes, thoracolumbar junction syndromes referring caudally, hip-spine syndrome, and postoperative mechanical failure syndromes. The point is not to create an infinite catalogue. It is to refuse a single residual category that erases mechanism.
 
 Mixed presentations will remain common. People are not single-label organisms. The advance is to document dominant and contributing mechanisms instead of hiding mixture under non-specificity.
 
-**How Sub-Classification Changes the Visit.**
-
 In practical terms, a clinic that has retired NSLBP as a destination sounds different by minute twenty of the encounter. Instead of reassuring and discharging, the clinician tests extension-rotation for facet irritability, clusters SI provocation tests, maps trigger-point referral, screens hips, and asks visceral systems questions with intent. The notes record a ranked hypothesis. The first treatment becomes an experiment that should shift a predicted finding (segmental springing, sitting tolerance, single-leg stance pain) not merely a ritual application of “something manual.”
 
 Patients feel the difference as respect. Students feel it as a reason to study. Researchers feel it as a phenotype they can enroll. That triangulation is how diagnostic culture renews itself.
-
-**From Working Diagnosis to Testable Diagnosis.**
 
 Naming is only the first reform. Each sub-classification must earn its keep through operational definition:
 
@@ -89,15 +83,11 @@ Funding bodies need persuasion. Musculoskeletal pain’s ubiquity makes it parad
 
 Partnerships with academic allopathic departments will strengthen methods and credibility. Collaboration is not dilution. It is how palpatory medicine enters the same evidential conversation as other complex clinical skills.
 
-**Teaching Specificity to the Next Generation.**
-
 Diagnostic futures are built in classrooms as much as in journals. If students learn low back pain as a binary, red flag versus nonspecific, they will practice that binary for thirty years. Curricula should instead teach a layered approach: danger screening, inflammatory screening, neurologic characterization, then mechanical phenotyping with osteopathic and physiotherapeutic lenses.
 
 Practical skills labs can standardize landmark palpation, sacral base assessment, facet provocation reasoning, and fascial glide testing with the same seriousness given to cardiac auscultation. Video review, peer reliability exercises, and supervised patient encounters raise agreement. Students should graduate able to write a working mechanical diagnosis in one sentence and a differential in three.
 
 Assessment drives learning. Examinations that reward only the phrase “nonspecific low back pain, advise activity” will reproduce the present. Examinations that require a reasoned sub-classification and a matched treatment hypothesis will produce clinicians ready for the future this chapter describes.
-
-**Health Systems and Coding: Making Specificity Possible.**
 
 Even enlightened clinicians drown when electronic records and billing codes push them toward vague categories. If the only reimbursable or easily selectable label is NSLBP, specificity becomes unpaid labour. Health systems serious about diagnostic progress should:
 
@@ -107,8 +97,6 @@ Even enlightened clinicians drown when electronic records and billing codes push
 - Support integrated pathways where osteopaths, physiotherapists, and physicians share notes rather than forcing patients to courier their own stories.
 
 Policy is part of epistemology. What a system can name, it can improve.
-
-**What Patients Will Notice First.**
 
 Patients may not read taxonomy papers, but they notice when language changes. “Your pain is nonspecific” lands as erasure. “We believe your facets are the main drivers, with a myofascial contribution from quadratus lumborum; we’ll treat that and reassess in two weeks” lands as a plan. Even when the first hypothesis is revised, the patient has been invited into reasoning rather than dismissed from it.
 
@@ -130,42 +118,27 @@ Artificial intelligence will enter triage and imaging interpretation. Used well,
 
 Pressure algometry, quantitative sensory testing, and conditioned pain modulation protocols can help characterize nociplastic contributions without erasing peripheral findings. A patient can be centrally sensitized *and* have a stiff, painful facet pattern. Future clinics will run both tracks: calm the nervous system’s gain, and restore the tissue’s motion. Osteopathy’s hands belong on both sides of that sentence, reducing nociceptive drive while clinicians and psychologists address appraisal and threat.
 
-**International Lessons.**
-
 Some health systems already integrate manual practitioners into primary musculoskeletal pathways more fully than others. Where osteopaths or equivalent manual clinicians are regulated, insured, and referral-linked, patients experience fewer dead ends after “nothing surgical.” Where osteopathy is marginalized as alternative luxury, NSLBP remains a dumping ground. The diagnostic future is therefore partly a workforce and regulation future: clear standards, clear scopes, and clear interfaces with medicine.
 
 Research networks that span countries can test whether osteopathic sub-classifications translate across populations and training cultures. A facet pattern in one city should be recognizable in another if criteria are explicit. That replicability is how craft becomes science without losing craft.
-
-**Retiring NSLBP Without Abandoning Humility.**
 
 The goal is not diagnostic arrogance. Many patients will still have uncertain or multifactorial pain. Uncertainty can be stated honestly: “I do not yet have a single confirmed source, but the leading mechanisms are facet loading and myofascial trigger points in the quadratus lumborum; here is how we will test that hypothesis over four visits.” That is specificity of process even when specificity of lesion is incomplete.
 
 NSLBP may survive as a temporary code for administrative systems, much as “chest pain not yet diagnosed” once bridged acute care. Clinically, it should stop being the identity we hand patients to take home.
 
-
-
-**Probabilistic Thinking Without Losing the Plot.**
-
 Future diagnosis will be more Bayesian than theatrical. No single test (palpatory, provocative, or imaging) will crown a mechanism with certainty. Instead, prior probability from history will be updated by examination clusters and by treatment response. A patient with extension-rotation pain, segmental hypomobility, and temporary relief after facet-oriented OMT raises the posterior probability of facet syndrome. Failure to respond lowers it and prompts revision toward discogenic, myofascial, or SI patterns.
 
 This probabilistic humility should be taught explicitly so that neither clinicians nor patients confuse a working diagnosis with infallibility. Charts can use language such as “leading mechanism” and “competing mechanism,” with dates of revision. That paperwork culture makes specificity compatible with science rather than opposed to it.
-
-**Phenotypes Across the Life Course.**
 
 Sub-classification must also respect life stage. Adolescent pain may centre on growth, sport load, and occasionally serious pathology that adults forget to consider. Peripartum and postpartum phenotypes privilege pelvic load transfer, hormonal ligamentous change, and scar mechanics. Occupational phenotypes in drivers or desk workers often combine thoracic stiffness with lumbar shear and gluteal inhibition. Older adults bring stenosis, osteoporotic fracture risk, and polypharmacy into the same room as ordinary facet and myofascial pain. A future taxonomy that ignores age and role will recreate nonspecific blur under prettier names.
 
 Osteopathy’s whole-person habit is an advantage here, if it remains tethered to differential diagnosis. Listening to tissue includes listening to the story of work, birth, sport, and aging that loaded the tissue.
 
-**The Clinic of 2035: A Sketch.**
-
 Imagine a persistent back pain clinic where intake tablets capture aggravating patterns that software sorts into provisional mechanism flags, not as diagnosis, but as prompts. A physician screens red flags and inflammatory features. An osteopath performs structured TART and motion testing recorded on a standardized form. Ultrasound measures multifidus activation and fascial glide where relevant. Elastography samples a region of reported tightness. The team agrees a leading mechanism, delivers matched OMT and exercise, and reviews quantitative and patient-reported change at two weeks. Non-responders enter a revision conference, not an automatic injection cascade or an automatic psychosocial-only pathway.
-
 
 That clinic is not fantasy technology. It is workflow courage. Most pieces already exist in fragments. The future is assembly.
 
 Equally important is what the clinic of 2035 must refuse: refusing to let software auto-file every cleared patient as NSLBP; refusing to treat psychosocial screening as a reason to skip hands-on examination; refusing to let technique brand wars replace mechanism language. The future will belong to teams that can say “facet-dominant, SI-contributing, sleep-amplified” in one breath and mean each clause enough to act on it.
-
-**Ethics of Naming.**
 
 Naming a mechanism carries ethical weight. A wrong name can send a patient into the wrong procedure. A refusal to name can send a patient into years of invisibility. The ethical centre is provisional honesty: name what the evidence of this encounter supports, state uncertainty, and commit to revision. Osteopathic education should treat that ethic as seriously as technique performance. Boards and insurers, for their part, should reward documented reasoning over hurried nonspecific codes.
 
