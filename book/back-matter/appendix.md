@@ -188,7 +188,7 @@ This list is not exhaustive. When in doubt, err toward medical assessment.
 ## F. Sample Patient Letter Requesting Specificity
 
 > Dear [Clinician], 
-> Thank you for ruling out serious causes of my low back pain. I understand my presentation has been described as non-specific. I would like help identifying possible mechanical or functional contributors (such as facet joint patterns, sacroiliac joint dysfunction, myofascial pain, or referred visceral-somatic factors) and a plan to reassess if we do not improve. I am also open to osteopathic or advanced musculoskeletal referral if appropriate. 
+> Thank you for ruling out serious causes of my low back pain. I understand my presentation has been described as non-specific. I would like help identifying possible mechanical or functional contributors (such as facet joint patterns, sacroiliac joint dysfunction, myofascial pain, or referred viscero-somatic factors) and a plan to reassess if we do not improve. I am also open to osteopathic or advanced musculoskeletal referral if appropriate. 
 > Sincerely, 
 > [Name]
 

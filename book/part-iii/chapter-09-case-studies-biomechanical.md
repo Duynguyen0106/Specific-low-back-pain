@@ -48,7 +48,7 @@ I gave him two homework realities, not twenty exercises. First, interrupt sittin
 
 #### What Changed
 
-At visit two, six days later, David reported that mornings were “fifty percent kinder.” The tissues over L4–L5 were less congested. Pelvic landmarks had partially relapsed, desk life is persistent, but less severely. We repeated MET for the pelvis, rechecked the TL junction (still freer), and this time used a localized lumbar HVLA now that irritability had calmed. Visit three consolidated gains and shifted emphasis toward endurance of the deep stabilizers in positions that mattered to his workday, not in abstract plank dogma.
+At visit two, six days later, David reported that mornings were “fifty percent kinder.” The tissues over L4–L5 were less congested. Pelvic landmarks had partially relapsed (desk life is persistent), but less severely. We repeated MET for the pelvis, rechecked the TL junction (still freer), and this time used a localized lumbar HVLA now that irritability had calmed. Visit three consolidated gains and shifted emphasis toward endurance of the deep stabilizers in positions that mattered to his workday, not in abstract plank dogma.
 
 By six weeks he described himself as eighty to ninety percent improved, with flare-ups he could now interpret: long audit days without movement breaks predictably stiffened the right L4–L5 neighborhood. He no longer called it “arthritis ending my youth.” He called it “my hinge complaining when I treat it like a hinge that never needs oil.” That linguistic shift matters. It returns agency without blaming the patient for having anatomy.
 
@@ -88,7 +88,7 @@ Her home program was specific to the diagnosis: short-stop psoas release positio
 
 #### What Changed
 
-At forty-eight hours she emailed, runners email, to say the standing extension catch was “weirdly muted.” At visit two we found residual capsule restriction and a psoas that still tended to re-guard after long desk mornings. We repeated a shorter version of the same sequence and added more motor control precision: can she extend the hip in prone with the lumbar spine quiet under a biofeedback hand? By week three she had returned to continuous easy runs. By week six she completed a long run without the catch, still with instructions to keep hip work as non-negotiable as calf stretching had once been in her mind.
+At forty-eight hours she emailed (runners email) to say the standing extension catch was “weirdly muted.” At visit two we found residual capsule restriction and a psoas that still tended to re-guard after long desk mornings. We repeated a shorter version of the same sequence and added more motor control precision: can she extend the hip in prone with the lumbar spine quiet under a biofeedback hand? By week three she had returned to continuous easy runs. By week six she completed a long run without the catch, still with instructions to keep hip work as non-negotiable as calf stretching had once been in her mind.
 
 She asked why yoga lunges had not fixed her “tight hip flexors.” Because end-range stretching into a guarded, capsule-restricted hip often increases threat and lumbar substitution. Length without control, and stretch without calming the tender point’s neurological set point, can irritate the very pattern you hope to solve. Technique is not interchangeable with intention.
 
