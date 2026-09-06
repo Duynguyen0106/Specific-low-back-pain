@@ -90,24 +90,15 @@ Seventh, reassess at follow-up: what held, what relapsed, what new driver emerge
 
 This structure is repeatable. The techniques inside it change. That is how you remain non-formulaic without becoming unstructured.
 
-**Matching Tools to the Cases You Have Already Met.**
-
 David needed MET for pelvis, HVLA for a crisp TL junction, MET then later HVLA for an irritable-to-settling facet pattern, and homework that interrupted sitting flexion. Aisha needed counterstrain and inhibition for psoas, articulation for hip capsule, only secondary lumbar work, and motor control that stopped lumbar substitution. Margaret needed visceral mesenteric work sequenced with diaphragm and then somatic recalibration. Jonah needed inhibition, graded stretch, pelvic correction, and postural re-education, not a laminectomy toolkit.
 
 Imagine forcing all four into a single favorite technique. The mismatches write themselves. Toolkit breadth is ethical breadth.
 
-**Teaching Patients What the Tools Are For.**
-
 Patients benefit from plain translations. HVLA: a precise nudge to restore a joint’s lost movement. MET: your muscle energy helps reposition a joint gently. Counterstrain: we fold you into comfort until a tender guard stands down. Myofascial work: we restore slide between layers that are stuck. Visceral work: we improve mobility of organ supports that are tugging on your spine’s wiring and frame. Cranial work, if used: we ease whole-system and membranous tensions that keep your back on high alert. When patients understand purpose, they stop collecting techniques like souvenirs and start participating in a plan.
-
-**The Practitioner’s Craft Habit.**
 
 Build competence across tools deliberately. Most clinicians graduate with uneven fluency. That is normal. What is not acceptable is pretending that the one tool you trust is the only tool the human body needs. Seek mentoring in your weaker methods. Practice palpation so that diagnosis, not insecurity, selects technique. Retest obsessively. Drop techniques that do not change findings even if they are crowd-pleasers.
 
 For the dual audience: professionals, expand your kit and your humility together. Patients, judge care less by whether there was a crack and more by whether findings were explained and matched to what was done. The toolkit serves the truth in the tissues. The tissues do not serve the toolkit.
-
-
-**Building a Session: A Sample Architecture.**
 
 Consider a composite patient with chronic left low back pain, sitting intolerance, mild left lower quadrant bloating, and a pelvis that landmarks asymmetrically. A structured session might unfold as follows, not as a formula for all, but as an illustration of sequence logic.
 
@@ -117,47 +108,29 @@ Sequence: diaphragm and soft tissue preparation; mesenteric and sigmoid gentle m
 
 That session used six tool families without becoming a buffet, because diagnosis ranked them. Another patient might use two tools. Breadth is availability, not obligation.
 
-**Learning Techniques Without Losing Diagnosis.**
-
 Students often ask which course to take next. Take the course that fills your diagnostic gap, not only your entertainment preference. If you cannot assess a sacrum confidently, pelvic MET courses matter. If your hands cannot follow fascial drag, myofascial training matters. If you have never been mentored in visceral screening, learn screening and referral before advanced visceral sequences. If HVLA localization is crude, refine localization before adding force.
 
 Technique collection without palpation development produces a clinician who owns many tools and still builds the wrong furniture. Reverse the order: diagnosis first, tool fluency second, speed last.
 
-**Communicating Uncertainty.**
-
 Sometimes you will not know which tool is best. Say so. “Your findings suggest either a primary hip driver or a primary lumbar facet driver; today I will treat the hip pattern that is loudest and reassess the lumbar findings; if they do not change, next visit we shift.” Patients tolerate uncertainty that is framed as a plan. They fear uncertainty that is hidden behind false confidence or random technique switching.
-
-**The Toolkit and the Book’s Promise.**
 
 *Tissue Tells the Truth* promised that osteopathic medicine can uncover causes the wider system misses, not because other professions lack intelligence or care, but because time pressure, imaging culture, and protocol scaling push practice toward averages. The toolkit is how averages become individuals again. HVLA, MET, counterstrain, myofascial release, visceral work, cranial approaches, articulation, and inhibition are diverse means to a shared end: restore motion, quiet facilitation, improve fluid and force sharing, and return the person to a life that does not orbit their low back.
 
 No formula. Clear structure. Diagnosis at the center. Hands that listen. Techniques that answer what they heard.
 
-
-**Contraindications as Part of the Toolkit.**
-
 A mature toolkit includes knowing when a tool stays in the bag. Absolute and relative contraindications differ by technique and by patient context, but the habit is shared: screen bone integrity, neurological status, vascular risk, infection, malignancy suspicion, inflammatory instability, patient consent and anxiety, medication that alters bleeding or bone risk, and pregnancy-related cautions for positioning and force. Soft tissue may be appropriate where HVLA is not. Indirect methods may be appropriate where direct stretching is not. Referral may be appropriate where any manual approach is not.
 
 Students sometimes treat contraindications as legal boilerplate. Clinically, they are diagnostic filters. The same history that blocks a thrust may reveal the true disease.
 
-**Measuring Technique Effect in the Room.**
-
 Whatever tool you choose, close the loop before the patient dresses. Retest the motion you claimed to restore. Repalpate the texture you claimed to quiet. Recheck the provocative movement that opened the visit. If nothing changed, you have information: wrong tool, wrong target, insufficient preparation, or a non-mechanical driver. The toolkit without retesting is a collection of hopeful gestures.
 
-**Integrating Exercise Without Surrendering Specificity.**
-
 Exercise is also a tool, though this chapter’s center is manual. The same law applies: diagnosis chooses load. Rachel’s extension control work and Tom’s flexion restoration drills were both “exercise” and were not interchangeable. Glute strengthening for Jonah was not the same prescription as diaphragmatic pacing for Margaret. When manual therapists outsource all loading decisions to a generic sheet, they undo their own specificity. Write exercise as precisely as you choose HVLA versus counterstrain.
-
-**Mentorship, Peer Palpation, and the Long Apprenticeship.**
 
 No chapter replaces supervised practice. Find mentors who retest obsessively. Palpate with peers on the same volunteer and compare findings without ego. Film your HVLA localization with consent for mentorship review. Read widely across technique families so that tribal language softens. The toolkit grows for decades. The organizing principle does not change: tissues first, tools second.
 
 ### Closing Part III
 
 Part III began with a refusal of formula and ends with a table of tools. That is not a contradiction. Principles need instruments. Instruments need principles. Between them live the patients whose cases refuse to be nonspecific, the accountant, the runner, the project manager with a gut–back loop, the developer with a piriformis story, the teacher and the warehouse supervisor split by a leaflet that could not see them. Your hands, your reasoning, and your referrals are how tissue truth becomes clinical truth.
-
-
-**Indirect Versus Direct: A Practical Compass.**
 
 Direct techniques engage the restrictive barrier and move into it (many MET setups, direct myofascial stretch, HVLA through the barrier, articulatory progression toward limitation). Indirect techniques move into ease (counterstrain positioning, some balanced ligamentous and fascial approaches, certain cranial methods). Irritable, acute, fearful, or highly sensitized patients often tolerate indirect first. Chronic, fibrotic, crisp-barrier findings often respond well to direct methods once prepared. Many sessions blend both: indirect to quiet guard, direct to restore a named motion loss, retest, stop.
 
@@ -167,18 +140,11 @@ The compass prevents ideology. You are not an “indirect osteopath.” You are 
 
 HVLA impresses. Deep visceral work impresses. Long cranial holds impress some patients with their quiet drama. Soft tissue inhibition rarely goes viral on social media. Choose anyway for the finding. Part of professional maturity is tolerating a session that looks simple on video but changes the driver on retest. Another part is refusing to withhold a needed thrust because a patient community has decided cracking is crude, or refusing to thrust because your brand is “gentle only” when a crisp pelvic restriction is asking for MET or HVLA.
 
-**Training Day Recommendation.**
-
 If you set aside a training day in clinic each quarter, spend it not on collecting a new brand-name technique but on sequencing: one patient voluntarily examined by two clinicians, findings compared, a hierarchy agreed, a sequence written on a board, treatment performed with retests aloud after each tool. The board habit externalizes reasoning and exposes tribal shortcuts. Clinics that do this produce fewer invisible protocols.
-
-**Final Counsel to Both Audiences.**
 
 To practitioners: own a wide toolkit, a narrow ego, and a compulsory retest. Let diagnosis hire the technique for the day. Sequence preparation, drivers, local victims, and homework as deliberately as a surgeon sequences an operation, without pretending the body is a single operation.
 
 To patients: the best osteopathic sessions feel purposeful. You should leave knowing what was found, what was done, why that tool fit, and what your two or three jobs are before return. If you only leave with a crack or a sense of vague relaxation and no explanation, you may feel better, but you have not yet received the full promise of specificity that this book describes.
-
-
-**A Pocket Card of Indications.**
 
 If you need a mnemonic card on your desk, try this, knowing it is a servant, not a master.
 
@@ -200,14 +166,8 @@ Exercise/load: diagnosis-matched bias and control, few inputs, retested.
 
 Referral: red flags, yellow-flag overload beyond scope, mismatch that will not resolve, medical disease suspicion.
 
-**The Last Sentence of the Toolkit.**
-
 When you forget everything else in this chapter, keep this: the tissue findings hire the technique; the technique does not hire the findings. That hiring decision, made visit after visit, is how Part III’s clinical reality stays ethical, specific, and alive.
 
-**Courtesy to Other Professions.**
-
 Physiotherapists, sports physicians, GPs, and surgeons inhabit this toolkit chapter as colleagues, not foils. Many use versions of these tools with different names and evidence cultures. Osteopathy’s contribution is not ownership of HVLA or soft tissue. It is the insistence that technique follows a whole-person structural diagnosis, and that “nonspecific” is often an unfinished examination rather than a final category.
-
-**Sequencing Across a Course of Care.**
 
 A single session sequence matters; a course-of-care sequence matters more. Visit one may emphasize downregulation, keystone drivers, and education. Visit two may re-treat residual drivers and begin load. Visit three may shift toward motor control and work-task rehearsal. Visit four may taper hands-on care as the patient demonstrates self-management. Chronic or layered cases may revisit visceral or cranial fields after biomechanical layers quiet enough to reveal them. The toolkit, viewed across time, is an arc, not a repeated identical session stamped weekly until boredom or discharge.

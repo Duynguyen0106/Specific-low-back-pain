@@ -34,8 +34,6 @@ Patients sometimes feel uneasy when treatment moves away from the painful spot. 
 
 Clinicians trained only in local protocols can miss this because their map ends at the area of complaint. Osteopathic maps are larger by principle. Structure governs function everywhere the structure connects, which, in a body, is everywhere.
 
-**The Segment That Changes the Chain.**
-
 A restricted joint alters movement elsewhere through several overlapping mechanisms.
 
 Mechanically, the body is a kinematic chain. Reduce rotation at one lumbar segment and rotation demand transfers to segments above and below, to the pelvis, and sometimes to the feet via altered gait. Soft tissues remodel along the lines of habitual stress. Ligaments that are repeatedly loaded become irritable. Muscles that are asked to stabilize a poorly timed joint become hypertonic and ischemic.
@@ -74,8 +72,6 @@ Osteopaths use several strategies. We look for the oldest history: the ankle spr
 
 This is structure governing function as method, not motto. If I improve the mobility of a restricted segment and the patient’s forward bend improves, their breath deepens, and their previously guarded hip softens, function has answered structure. If nothing changes, my hypothesis was wrong, and I revise. Specificity includes the willingness to be corrected by the tissue.
 
-**A Day in Structural Listening.**
-
 Let me slow the method down to the pace of an actual visit, because principles convince more readily when they wear a clock.
 
 A new patient, call him Victor, points to a band of pain across the lumbosacral junction. He rates it a six on most days, an eight after long drives. He has been told he has non-specific mechanical low back pain and mild degenerative disc disease at L5–S1. He stretches his hamstrings religiously. Stretching makes him feel virtuous and no less sore.
@@ -88,13 +84,9 @@ If I treat L5 first because it is loudest, I may give him an hour of relief and 
 
 Victor’s story also illustrates a teaching point for clinicians: do not confuse the site of degeneration with the site of dysfunction. Degenerative change at L5–S1 may be real and still not the primary restriction driving this week’s symptoms. Treating the MRI is not the same as treating the person. Structure, in osteopathic usage, means living relationships of motion and tissue quality, not only the morphology a radiologist can annotate.
 
-**Layers of Structure: Bone, Joint, Soft Tissue, Fluid.**
-
 “Structure” can sound like a synonym for skeleton. Still meant more, and so should we. The osseous arrangement matters: pelvic landmarks, vertebral orientation, the curves that distribute load. The arthrodial joint relationships matter: how facets open and close, how the sacroiliac joint nutates and counternutates through gait. The myofascial structure matters: length, tone, glide, scar. Even fluid is structural in a practical sense; edema changes the space in which joints and nerves operate. A nerve root in a congested lateral recess behaves differently than the same nerve root in a well-draining one.
 
 When patients hear that their “structure” is involved, some imagine catastrophic misalignment. I prefer concrete language. “This joint isn’t sharing motion with its neighbors.” “This tissue is dense and isn’t gliding.” “This pattern is asking your lumbar spine to rotate for your mid-back.” Concrete language keeps structure governmental without making it tyrannical. It also invites the patient into reassessment: after treatment, can they feel the difference in bend, breath, or weight-bearing? Subjective function is part of how we know structure has changed.
-
-**Compensations That Become Identity.**
 
 Long-standing structural compensations stop feeling like compensations. They feel like personality, posture, “just how I’m built.” A person who has hiked one hip for twenty years may defend that pattern as normal. An osteopath’s job is not to shame the pattern. It is to show, through careful release and immediate retesting, that another organization is available. The nervous system often needs proof more than explanation. When forward bend improves by inches after a sacral release, belief updates through the body. That update is itself a functional change governed by a structural one.
 
@@ -105,8 +97,6 @@ Chronicity adds a wrinkle. The longer a compensation persists, the more secondar
 MRI has refined our ability to see discs, nerves, and marrow edema. It has not made Still obsolete. Many people with terrifying scans have little pain. Many with severe pain have unremarkable scans. Imaging captures morphology at a moment. Osteopathic structural diagnosis captures function in motion and tissue in relationship. Both are needed. Confusing one for the whole is how patients end up either over-operated or under-explained.
 
 Structure governs function also protects clinicians from a subtler error: treating imaging findings that are not the functional problem. A broad-based disc bulge at L4–L5 may be real and still irrelevant to this week’s pain, which is driven by a sacral torsion and a psoas spasm after a viral illness. Operating on the bulge would be specific in the surgical sense and non-specific in the human sense. Osteopathy’s wager is that functional specificity, what is not working in this person now, is the specificity that chronic pain care most lacks.
-
-**Teaching Patients the Principle Without Frightening Them.**
 
 Patients do not need a lecture on Still. They need a usable idea. I often say: “Your pain is real, and it may be coming from a place that is compensating for another place that is stuck. My job is to find the stuck place, free it as gently as we can, and give your system a chance to reorganize.” Most people understand stuckness. They have lived it.
 
@@ -120,13 +110,9 @@ Elena, from the introduction, did not need to be told her pain was non-specific.
 
 That is the founding principle at work. Structure governs function. In the low back, that truth is not abstract philosophy. It is the difference between a label that ends the story and a finding that begins treatment.
 
-**From Principle to Palpation Literacy.**
-
 For clinicians, recovering Still’s principle means recovering palpation literacy in a culture that trusts screens. Palpation literacy is not a mystical gift. It is hours of supervised comparison: this tissue versus that, this end-feel versus another, this response after treatment versus none. Schools that under-teach palpation produce graduates who retreat to protocols because their hands do not yet speak fluently. Protocols have a place. They cannot replace the ability to feel when a barrier softens or when a “successful” technique has left the autonomic system screaming.
 
 For patients, palpation literacy means something gentler: learning to notice. Where do you brace when you stand from a chair? Which side of the low back fatigues first on a walk? Does pain travel when digestion is unhappy? These observations do not turn you into your own osteopath. They make you a better historian of your structure-function story, and better historians get better care.
-
-**Common Structural Patterns Behind “Non-Specific” Labels.**
 
 Without turning this chapter into a technique manual, it helps to name patterns that repeatedly hide under the non-specific umbrella. Extension-restricted lumbar segments after repeated flexion work. Sacral torsions after falls onto a buttock. Pubic and pelvic floor dysfunctions after childbirth that never enter the orthopedic note. Thoracolumbar junction jamming in people who sit in collapse and then suddenly demand rotation in sport. Hip capsules that have lost rotation and force the lumbar spine to substitute. Each pattern is specific. Each can be found with hands and motion tests. Each, when treated in context, can change a pain story that imaging alone left unfinished.
 
