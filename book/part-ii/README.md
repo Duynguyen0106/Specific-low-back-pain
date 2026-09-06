@@ -1,3 +1,3 @@
-# Part II, The Osteopathic Paradigm: A Philosophy of Specificity
+# Part II: The Osteopathic Paradigm: A Philosophy of Specificity
 
-If Part I diagnoses the failure of “non-specific” as a clinical category, Part II rebuilds the alternative: osteopathy’s founding principles and working models as a disciplined philosophy of specificity, where structure and function converse, the body is treated as a unit, self-healing is invited rather than imposed, and five interlocking models of care guide the clinician from vague backache to a findable, treatable driver.
+If Part I diagnosed a cultural blind spot, Part II supplies a different pair of eyes. Structure governs function. The body is a unit. The body heals when obstacles are removed. Five models keep the clinician from loving only one technique. These are not slogans for a brochure. They are working tools that make “non-specific” provisional rather than final, and they lead directly into the clinical craft of Part III.

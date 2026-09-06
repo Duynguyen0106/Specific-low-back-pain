@@ -2,6 +2,8 @@
 
 ### The Principle That Refuses Abstraction
 
+Part I named the problem: a label that ends inquiry, a formula that averages people, a red-flag pathway that shines at exclusion and then too often stops. Part II begins the answer. Before techniques, before protocols, osteopathy offers a different claim about what a body is.
+
 Andrew Taylor Still did not found osteopathy as a set of techniques. He founded it as a claim about reality: that the architecture of the body and the life of the body are not separate conversations. Structure governs function. When the arrangement of bones, joints, fascia, and organs is disordered, the functions that depend on that arrangement (movement, circulation, nerve conduction, organ motility, even mood) begin to fail in patterned ways. Restore workable structure, and function often follows, not because the clinician has “fixed” the patient like a mechanic replacing a part, but because the body has been given back the conditions in which it knows how to operate.
 
 This principle can sound obvious until you watch modern low back care ignore it. A patient is told their pain is non-specific. They are given a generic exercise sheet. They are advised to stay active. These recommendations are not worthless; activity and reassurance matter. But they often bypass the structural question Still considered primary: *What, specifically, is not free to move, glide, or transmit force, and how is that restriction changing the functions of the whole?*

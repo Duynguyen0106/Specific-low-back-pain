@@ -125,3 +125,5 @@ In Part III, we carry these principles into assessment and treatment in greater 
 If you remember only one operational sentence from this chapter, remember this: when care stalls, change models before you merely change techniques inside the same model. A new thrust is not a new idea. A new camera might be. That habit alone can turn a stalled “non-specific” case into a findable driver.
 
 Tissue still tells the truth. The five models are how we make sure we are listening in stereo.
+
+Philosophy ends where the hand begins. Part III takes these models into the treatment room: first the craft of palpation, then cases where biomechanical, visceral, and neurological drivers declare themselves under the fingers, then the failure of one-size protocols, and finally a toolkit ordered by diagnosis rather than by tribe. The paradigm was the promise. Palpation is how the promise becomes a finding.

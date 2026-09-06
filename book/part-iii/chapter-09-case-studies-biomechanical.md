@@ -2,6 +2,8 @@
 
 ### Why Cases Matter More Than Slogans
 
+Chapter 8 taught the listening hand. These next two chapters show what that listening finds when two backs hurt in the same neighborhood for different reasons.
+
 It is easy to say that low back pain is heterogeneous. It is harder to show what heterogeneity looks like in a real human being who has already been told their pain is nonspecific, age-related, or “just a disc.” This chapter and the next present paired case narratives not as entertainment and not as proof that osteopathy is a miracle, but as clinical demonstrations of a single claim: when the driver is named precisely, treatment can be precise; when the driver is left unnamed, protocols wander.
 
 The two patients in this chapter share a region, the low back, and little else. One is an accountant with dull morning ache whose lumbar facets and pelvis are locked in a compensatory conversation. The other is a young runner with sharp extension pain whose hip and psoas are the true protagonists while the lumbar spine plays the victim. Same broad complaint category. Entirely different mechanics. Entirely different techniques. That is specificity.
@@ -113,3 +115,5 @@ Aisha, visit one emphasis: psoas counterstrain; inhibition iliacus/psoas; hip ar
 The pedagogical value of the side-by-side is not memorization. It is the visceral recognition, pun intended, that sameness of complaint category never obligated sameness of care. When your clinic day contains both a David and an Aisha, your hands and your explanations must change rooms with you.
 
 Both patients relapsed partially when life overran plan. David during tax season; Aisha during a race taper that cut her hip homework. Relapse is data. It identifies the load that still exceeds tissue capacity or motor control. The specific clinician treats relapse as a recalibration: restore the keystone quickly, narrow the homework to what will actually be done, and negotiate with the real calendar rather than an ideal one. Protocols often interpret relapse as noncompliance morality. Specificity interprets relapse as an unfinished mechanical sentence.
+
+David and Aisha lived inside biomechanical stories. Not every low back does. Chapter 10 follows two patients whose pain still pointed at the lumbar spine while the drivers lived elsewhere: one in visceral fascial and reflex relationships, one in peripheral nerve entrapment that mimicked disc sciatica. The method stays the same. The camera angle changes.

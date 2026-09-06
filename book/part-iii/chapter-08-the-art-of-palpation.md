@@ -2,6 +2,8 @@
 
 ### The Hand That Thinks
 
+Part II gave us a philosophy of specificity: structure, unity, self-healing, and five models for finding a driver. Part III asks the practical question those principles imply: how do you know, in this person, today, what to treat first? The answer begins before technique. It begins with listening hands.
+
 The first time a patient notices that I am not “pressing around for sore spots,” they usually go quiet. The room changes. Their gaze softens toward the ceiling, or closes altogether, and something in their breathing lengthens as if the body has been waiting for a conversation conducted in a language it understands. Palpation, at its best, is not a survey of tenderness. It is listening.
 
 Osteopathic medicine was built on the premise that structure and function are reciprocal, and that the living body advertises its disturbances in texture, tension, motion, and temperature long before it appears on a radiology report. A. T. Still did not invent anatomy; he insisted that anatomy be *felt*. The modern osteopath inherits that insistence in a clinical culture that often prefers images to contact. Images have their place. They can save a life when they show a tumor, a fracture, a cauda equina compression, or an evolving infection. They cannot, however, tell you why a forty-two-year-old’s lumbar segment refuses to sidebend left after a night of restless sleep, or why a runner’s hip capsule is holding the pelvis hostage, or why a mesenteric tether is quietly dragging the lumbar spine into a protective pattern. Those truths live in tissue. Tissue tells them to fingers that know how to listen.

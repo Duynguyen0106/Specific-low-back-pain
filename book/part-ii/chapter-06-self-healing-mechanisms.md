@@ -105,3 +105,5 @@ Removing restrictions in service of self-healing requires more than one lens. So
 Hope without a mechanism is wishfulness. The self-healing principle supplies mechanism: remove obstruction, restore motion and fluid flow, quiet threat, protect sleep, and let physiology finish what injury interrupted. That is not optimism as personality. It is optimism as method. Patients feel the difference when clinicians work from that method rather than from rescue fantasies.
 
 For now, hold this chapter’s correction close: you are not a broken machine waiting for a clever fixer. You are a living system that heals when the rocks are moved from the hose. Osteopathy, at its best, moves rocks: quietly, precisely, and with enough respect for the garden to know that green return belongs to the plant.
+
+Knowing that the body heals, however, does not yet tell you which rock to move first. Is today’s obstacle a joint, a nerve, a breath pattern, a metabolic climate, or a fear-avoidance loop? Chapter 7 answers with five models of care: five camera angles that turn the self-healing principle into a method for finding the specific driver.

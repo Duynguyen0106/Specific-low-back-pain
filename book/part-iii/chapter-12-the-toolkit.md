@@ -2,6 +2,8 @@
 
 ### Tools Are Not Tribes
 
+Chapter 11 argued that protocol without diagnosis fails. This chapter answers the next practical need: once findings diverge, which tools can follow them? The point is not to collect techniques like badges. It is to keep a workshop wide enough that diagnosis, not habit, selects the instrument.
+
 Walk through any osteopathic conference corridor long enough and you will overhear the tribal shorthand: he is a “HVLA osteopath,” she is “cranial,” they are “visceral,” that clinic is “fascial.” Patients absorb the tribes too. They arrive asking for a crack, or asking never to be cracked, as if technique preference were the identity of care.
 
 This chapter offers a different frame. Techniques are tools. Diagnosis chooses them. A carpenter who uses only a hammer will invent a world of nails. An osteopath who uses only the technique they love will invent a world that happens to fit their hands. The clinical reality of Part III, specificity without formula, requires a toolkit wide enough to match the tissues you actually find, and a mind disciplined enough not to rummage for the loudest tool first.

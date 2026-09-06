@@ -2,6 +2,8 @@
 
 ### The Lie of the Isolated Back
 
+Chapter 4 insisted that structure governs function, and that pain is often an effect of a restriction elsewhere. This chapter widens the map. If a restricted joint can rewrite the script of its neighbors, what happens when we admit that organs, fascia, scars, and distant joints are neighbors too?
+
 Walk into most acute-care pathways for low back pain and you will find an implicit geography: the problem lives between the twelfth rib and the gluteal fold, and everything outside that map is someone else’s department. Urology owns the kidney. Gastroenterology owns the bowel. Gynecology owns the pelvis. Psychology owns the mood. Orthopedics owns the disc. The patient owns the leftover mystery when none of those departments claim a satisfying explanation.
 
 Osteopathy begins from a different cartography. The body is a unit: a clinical axiom with teeth, not a soft slogan for marketing brochures. Dysfunction in one region changes the physiology of others through fascia, nerves, fluids, and shared mechanical load. A low back that hurts may be shouting about a kidney that cannot glide, a colon that is spastic, a scar that tethers the deep front line, or a jaw and diaphragm locked in a pattern of chronic threat. Treat only the shout, and you may quiet it briefly. Treat the unit, and you may change the conditions that made shouting necessary.

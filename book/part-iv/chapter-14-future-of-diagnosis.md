@@ -1,5 +1,7 @@
 # Chapter 14: The Future of Low Back Pain Diagnosis
 
+Chapter 13 argued for collaboration. Collaboration still needs words precise enough to share. A partnership cannot thrive if both sides are forced to file the same patient under a label that means “we stopped looking.”
+
 For decades, a large share of patients with low back pain have left the clinic with a diagnosis that describes what their pain is not. Non-specific low back pain, NSLBP, means, in practice: we have not found fracture, infection, malignancy, inflammatory spondyloarthropathy, or a clear surgical lesion that explains your symptoms. As a rule-out statement, that sentence can be responsible. As a final diagnosis, it is an abdication dressed as science.
 
 The future of low back pain diagnosis will be measured by whether medicine has the courage to replace that abdication with named, testable, clinically meaningful sub-classifications. Osteopathy has been pointing toward that future for more than a century, not by inventing exotic diseases, but by insisting that mechanical and functional lesions are specific enough to name, examine, treat, and study. This chapter sketches that future: a framework beyond “non-specific,” a research agenda worthy of palpatory medicine, and technologies that are beginning to corroborate what trained hands perceive.
@@ -151,3 +153,5 @@ The future of low back pain diagnosis is not a gadget, a guideline alone, or a s
 When medicine replaces “non-specific” with named mechanisms (lumbar facet syndrome, SIJD, myofascial pain, viscero-somatic referral, and their kin), patients will gain more than vocabulary. They will gain pathways matched to cause. Research will gain hypotheses worth testing. Technology will gain targets worth measuring. And the old quiet humiliation of being told that nothing is wrong, when everything still hurts, may finally begin to recede.
 
 Tissue has been telling the truth all along. The future belongs to diagnostic systems willing to write that truth down.
+
+Systems change slowly. Patients need a way to act now. Chapter 15 is written directly to the person who has been handed the non-specific label and left to manage alone: what to ask, how to prepare, how to find hands that listen, and how to stay in partnership with medicine without accepting emptiness as an answer.

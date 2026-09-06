@@ -2,6 +2,8 @@
 
 ### Two Patients, One Leaflet
 
+Chapters 9 and 10 used cases to show that identical regions of pain can hide different drivers. This chapter asks the complementary question: what happens when two different backs are handed the same leaflet?
+
 On a Tuesday morning I saw two people who could have been twins on a triage form.
 
 Rachel, thirty-eight, taught primary school. Tom, forty-one, supervised a warehouse. Both described low back pain worse with flexion. Both pointed near the lumbosacral junction. Both disliked soft sofas, putting on socks, and the bottom dishwasher rack. Different clinicians in different postcodes had handed them essentially the same leaflet: avoid bed rest, keep active, use heat, try these flexion drills and knee-hug stretches, here is a core circuit, return if red flags appear. Both were intelligent. Both tried. Both returned worse or unchanged, convinced they were failing rehabilitation the way students fail exams: through insufficient character.
@@ -133,3 +135,5 @@ Passionate osteopathic writing can sound, to medical colleagues, like territoria
 Success for Rachel was not becoming a person who never flexes. It was stacking the dishwasher with a hinge she trusted, teaching on the floor again with a strategy for rising, and knowing which early warning stiffness meant she had slipped back into end-range flexion under fatigue. Success for Tom was not living permanently curled. It was standing his shift without the facet catch, using a footstool without embarrassment, and having segmental flexion available when work forced him to look up. Protocol success is often defined as adherence. Specific success is defined as restored options in the movements that matter.
 
 Rachel needed to understand why we were withdrawing the knee hugs she had been told were virtuous. Without that explanation, withdrawal feels like deprivation. With it, withdrawal becomes a temporary therapeutic bias: we are parking you out of the range your segments currently mistrust while we build control, then we will reintroduce flexion as a skill rather than a stretch contest. Tom needed to understand why feeling better in flexion did not mean his job’s extension demands were irrelevant. Shared decision-making turns the fork from practitioner fiat into collaborative logic. Patients who help choose the branch adhere better and report flares earlier, which is itself a safety feature.
+
+A fork in reasoning still needs hands that can follow it. Once you know whether flexion is fuel or medicine, you still have to choose tools: thrust, muscle energy, counterstrain, fascial work, visceral techniques, articulation. Chapter 12 is the toolkit that serves diagnosis rather than tribal preference. No formula does not mean no craft.

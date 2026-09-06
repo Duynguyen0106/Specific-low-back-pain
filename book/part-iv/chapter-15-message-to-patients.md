@@ -1,5 +1,7 @@
 # Chapter 15: A Message to Patients: How to Advocate for Yourself
 
+The last chapter imagined a diagnostic future. This one is for the present tense: you, a folder of reports, and a label that may have stopped the search too soon.
+
 If you have been told your low back pain is “non-specific,” you are not alone, and you are not imagining the pain. The phrase usually means “we have not found a dangerous disease.” Too often it is heard as “there is no cause.” That blur has cost patients years of quiet doubt. This chapter is for you: scanned, prescribed, reassured, still hurting; ready to advocate without becoming adversarial; ready to ask for a more specific search.
 
 Pain is real. Causes exist. You are allowed to keep looking.
