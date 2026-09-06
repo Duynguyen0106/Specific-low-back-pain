@@ -72,7 +72,7 @@ Consider Elena again. When she finally came for osteopathic assessment, the MRI 
 
 Marcus's map was different: an old ankle inversion injury, a shortened fibularis group, a pelvis that shifted strategy every time he loaded the right leg into his truck, and lumbar segments that had been compensating for years. Joyce's map included a flattened lumbar lordosis after decades of nursing postures, a terrified relationship to bending after being told her discs were "degenerating," and a thoracolumbar junction as rigid as a locked door. Same umbrella label. Three different truths in tissue.
 
-### A Morning Clinic Under One Umbrella
+**A Morning Clinic Under One Umbrella.**
 
 Spend a single morning in an osteopathic practice that sees spines, and the absurdity of one umbrella label becomes difficult to ignore.
 
@@ -80,7 +80,7 @@ At nine o'clock, a software engineer arrives with pain that lives precisely in a
 
 Five people. Five mechanisms. One billing-friendly phrase if they had left conventional pathways without further inquiry: non-specific low back pain. The phrase is efficient for epidemiology. It is impoverished for care. Osteopathic mornings are arguments, conducted in flesh, against that impoverishment.
 
-### Specificity Is Not the Same as Certainty
+**Specificity Is Not the Same as Certainty.**
 
 A fair objection arrives here, often from thoughtful clinicians: *If osteopaths are so specific, why do practitioners sometimes disagree? Why isn't there one validated classification that ends the debate?*
 

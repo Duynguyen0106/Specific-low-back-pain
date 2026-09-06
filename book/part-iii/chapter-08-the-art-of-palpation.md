@@ -64,7 +64,7 @@ Feeling fingers accept that sensation improves with deliberate practice. Palpati
 
 There is also an ethical dimension to feeling. Palpation requires consent, clear explanation, and cultural sensitivity. Hands on the pelvis, abdomen, and proximal thighs demand particular care. The art of palpation includes the art of making the patient feel safe enough for the tissues to tell the truth. Guarding from fear is not the same as guarding from joint irritability, and a rushed or unexplained examination muddies the data.
 
-### A Morning in the Clinic: Palpation as Narrative
+**A Morning in the Clinic: Palpation as Narrative.**
 
 Let me place you in the room with me.
 
@@ -78,26 +78,26 @@ None of these findings appeared as a single sentence on her MRI report. The repo
 
 When I explained this in plain language (“your hip and pelvis are asking your low back to twist for them”), Miriam’s eyes filled, not with drama but with recognition. “That is exactly how it feels when I stand at the sink,” she said. Palpation had not only gathered data; it had restored coherence to a person who had been living inside a fragmented medical story.
 
-### Listening Through Layers
+**Listening Through Layers.**
 
 Skilled palpation moves through layers without announcing each layer like a tour guide. Skin. Superficial fascia. Muscle belly. Deep fascia. Joint. Sometimes the referral of visceral restriction into somatic tissues. The beginner’s error is to decide in advance what they will find and then press until the tissue confirms the prejudice. The disciplined error, and it is still an error, is to collect dozens of findings without ranking them. Osteopathic diagnosis requires both sensitivity and hierarchy. Which restriction, if released, would most change the system? Which findings are victims of a primary driver? Which are red flags dressed as mechanical pain?
 
 Layered listening also means noticing what the patient does with their breath and eyes when you contact a region. A sudden apnea, a facial wince, a protective bracing that is out of proportion to the pressure used: these are neurological data. Chronic pain states sensitize the system. Your hands must be firm enough to be informative and gentle enough not to become another threat. Sometimes the most important palpatory finding is that the tissues will not allow deep examination yet, and the first treatment is safety and downregulation rather than correction.
 
-### Palpation and the Professional Dual Audience
+**Palpation and the Professional Dual Audience.**
 
 For the clinician reading this: your hands are not optional accessories to a protocol. Protocols fail when the driver varies. Palpation is how you discover the driver. Train it as deliberately as you train your knowledge of red flags and your exercise prescription. Re-examine after treatment. If the tissue texture has not changed and motion has not improved, you have performed a ritual, not a treatment, or you have chosen the wrong target.
 
 For the patient reading this: if a practitioner never touches you with attentive, comparative, informed hands (if the visit is only a glance at imaging and a sheet of generic exercises), you may still improve, because many backs improve with time and sensible movement. But you have not received a specific mechanical diagnosis. You are entitled to ask what was found, what it means, and why the proposed treatment matches those findings. Specificity is not a luxury; it is the difference between care that happens to help and care that knows why it helps.
 
-### The Humility of the Listener
+**The Humility of the Listener.**
 
 I end this chapter where osteopathy must always return: humility. Tissues can mislead. Your perception can be wrong. A warm segment can be inflammatory disease rather than simple somatic dysfunction. Night pain and systemic symptoms must never be palpated away. The art of palpation includes knowing when the story under your hands is incomplete and the patient needs laboratory tests, imaging, or urgent medical referral.
 
 Listening is not claiming omniscience. Listening is consenting to be taught by the body in front of you, visit after visit, while your clinical mind keeps watch for the findings that should send you beyond the treatment table. Thinking, seeing, feeling fingers are powerful precisely because they remain curious. The tissues tell the truth, but only to the practitioner willing to hear complexity, revise the map, and refuse the comfort of a formula.
 
 
-### Comparative Palpation: The Discipline of Left and Right
+**Comparative Palpation: The Discipline of Left and Right.**
 
 Beginners often chase the sore spot and forget the quiet side. Comparative palpation is the corrective habit. Whatever you feel on the symptomatic left, feel on the right. Whatever you sense at L4, sense at L2 and T12. The nervous system of the clinician needs a control group, and the patient’s own contralateral tissues are usually the best one available.
 
@@ -105,7 +105,7 @@ Comparison also protects you from the day your hands are “on” or “off.” 
 
 I teach students to narrate comparisons aloud in practice sessions: “Right L4 is warmer and less springy than left; right thoracolumbar fascia drags superiorly; left does not.” Speech slows the hands and sharpens the mind. Later, the narration becomes internal. The principle remains: palpation without comparison is anecdote. Palpation with comparison is data.
 
-### The Time Dimension: Acute, Subacute, Chronic Hands
+**The Time Dimension: Acute, Subacute, Chronic Hands.**
 
 Tissue tells time as well as place. Acute lesions often feel warm, moist, boggy, and reactive, with muscle guarding that has a springy alarm to it. Subacute tissues may be less hot but still congested, with barriers that are rubbery rather than bony-hard. Chronic lesions frequently feel cool, dense, fibrotic, and less dramatically tender than you expect given the patient’s longevity of complaint, until you find the exact segmental or fascial keystone, at which point tenderness can be surprisingly sharp.
 
@@ -113,7 +113,7 @@ This temporal reading influences force and tempo. Acute tissues often prefer ind
 
 Palpation at follow-up is how you learn your own dosage. If the patient reports lasting ease and the tissues feel quieter, your dose was informative. If the patient reports a flare that took three days to settle and the tissues feel angrier, you overspoke. Listening includes listening to the consequences of your previous sentences in the tissue language.
 
-### Palpation Under Load and in Motion
+**Palpation Under Load and in Motion.**
 
 Static prone palpation is necessary and insufficient. Some dysfunctions declare themselves only when the patient stands, sits, hinges, or breathes under light load. Seated rotation while you monitor transverse processes; standing weight shift while you sense sacral base behavior; exhalation while you follow the thoracolumbar fascia’s preference: these are palpation too.
 

@@ -74,19 +74,19 @@ Elena "failed" physiotherapy in the documentary sense: she attended, she complie
 
 This is not an argument that everyone needs long osteopathic treatment before any other option. It is an argument that the word *failed* should be earned by adequate specificity. A patient who has not been assessed for pelvic mechanics, breathing strategy, scar restriction, or load distribution has not failed conservative care. Care has failed to become curious enough.
 
-### Education Without Mechanistic Orphans
+**Education Without Mechanistic Orphans.**
 
 Modern guidelines rightly emphasize education. Explain pain. Reduce threat. Encourage activity. Osteopaths who skip education are incomplete clinicians. Yet education detached from a person's mechanical story can orphan the patient in abstract neuroscience. Being told that "pain does not always equal damage" is true and useful; being told only that, while a sacroiliac pattern continues to announce itself with every stair, can feel like being managed rather than helped.
 
 The most powerful education I see is hybrid: yes, the nervous system learns and amplifies; yes, discs on MRI are often red herrings; *and* here is what your tissues are doing; here is why sitting stings; here is what we will change together this week. Knowledge lands differently when it has a body to stick to. The allopathic formula sometimes delivers the knowledge without the body, or the exercise without the knowledge, and rarely enough of the individualized "why" that makes adherence feel intelligent.
 
-### NSAIDs and the Culture of Taking the Edge Off
+**NSAIDs and the Culture of Taking the Edge Off.**
 
 There is a subtler cultural issue beneath the pharmacological staircase. Many patients are taught, long before they meet a guideline, that the responsible adult response to pain is to "take the edge off" and carry on. That ethic can be adaptive after a short acute strain. In persistent non-specific low back pain, it can become a way of never meeting the mechanism. The edge is chemically filed down; the posture that produced the edge remains; the nervous system learns that life continues only under pharmacological weather control.
 
 I am not arguing for stoicism or for withholding analgesia as a moral test. Pain relief can open a window for better movement and sleep. Osteopaths often work *with* carefully chosen medication under medical supervision. The question is whether the window is used. If NSAIDs become the main weather system rather than a temporary clearing, the allopathic formula has quietly substituted comfort for change. Comfort matters. Change is what ends the need for endless comfort.
 
-### Time-Limited Tools, Open-Ended Problems
+**Time-Limited Tools, Open-Ended Problems.**
 
 One structural mismatch fuels the whole chapter: many tools in the formula are designed to be time-limited (a short NSAID course, a two-week muscle relaxant, a six-session physio package, a single educational leaflet) while the problem labeled non-specific is often open-ended, multifactorial, and biographical. When a time-limited tool meets an open-ended problem and the label offers no mechanism to revise, discharge becomes the system's way of declaring completion. The patient's flare two weeks later becomes a "new episode" rather than a continuation of an unread story.
 
@@ -100,7 +100,7 @@ Because it is teachable in short appointments. Because it scales. Because it mat
 
 None of those reasons are villainous. They are structural. Osteopathy must reckon with them honestly if it hopes to be more than a boutique critique. We need to show, patiently and repeatedly, that ruling in specific dysfunction is compatible with safety, compatible with evidence-informed practice, and capable of reducing the very medication dependence and imaging chasing that systems want to reduce.
 
-### Muscle Memory of a Protocol
+**Muscle Memory of a Protocol.**
 
 Protocols create muscle memory in clinicians as surely as injuries create muscle memory in patients. After enough repetitions of the same pathway, the hands reach for the prescription pad, the mouth reaches for "stay active," the referral reaches for the standard rehab package, and the mind experiences these moves as care itself. Interrupting that muscle memory requires more than scolding. It requires training experiences in which a specific hands-on finding changes a patient's movement before the appointment ends, moments that re-enchant clinicians with examination.
 
