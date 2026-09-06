@@ -10,7 +10,7 @@
 
 ### Dedication
 
-*[Dedication placeholder — for the patients who kept asking for a cause, and the teachers who taught me to listen with my hands.]*
+*[Dedication placeholder, for the patients who kept asking for a cause, and the teachers who taught me to listen with my hands.]*
 
 ---
 
@@ -30,29 +30,29 @@ No part of this manuscript may be reproduced, distributed, or transmitted in any
 - Title Page
 - Dedication
 - Copyright and Disclaimer
-- Foreword *(invited — placeholder in this manuscript)*
+- Foreword *(invited, placeholder in this manuscript)*
 - Introduction
 - Table of Contents
 
-### Part I — The Problem with “Non-Specific”
+### Part I, The Problem with “Non-Specific”
 - Chapter 1: The Diagnosis That Means Nothing
 - Chapter 2: The Allopathic Formula: Pills, Rest, and Generic Exercises
 - Chapter 3: The Red Flag Dilemma
 
-### Part II — The Osteopathic Paradigm: A Philosophy of Specificity
+### Part II, The Osteopathic Paradigm: A Philosophy of Specificity
 - Chapter 4: Structure Governs Function
 - Chapter 5: The Body Is a Unit
 - Chapter 6: The Body Possesses Self-Healing Mechanisms
 - Chapter 7: The Five Models of Osteopathic Care
 
-### Part III — The Clinical Reality: No Formula, Only Principles
+### Part III, The Clinical Reality: No Formula, Only Principles
 - Chapter 8: The Art of Palpation: Listening to the Tissues
 - Chapter 9: Case Studies in Specificity (Part 1: Biomechanical Drivers)
 - Chapter 10: Case Studies in Specificity (Part 2: Visceral and Neurological Drivers)
 - Chapter 11: The Failed Protocol
 - Chapter 12: The Toolkit: Overview of Osteopathic Techniques
 
-### Part IV — Bridging the Gap: A Vision for Integrated Care
+### Part IV, Bridging the Gap: A Vision for Integrated Care
 - Chapter 13: Where the Medical Model Fails, Osteopathy Succeeds
 - Chapter 14: The Future of Low Back Pain Diagnosis
 - Chapter 15: A Message to Patients: How to Advocate for Yourself
@@ -60,7 +60,7 @@ No part of this manuscript may be reproduced, distributed, or transmitted in any
 ### Back Matter
 - Glossary
 - Appendix
-  - Research summary on OMT for low back pain
-  - Resources for patients and practitioners
-  - Intake template for diagnostic specificity
-  - Recommended diagrams for the published edition
+ - Research summary on OMT for low back pain
+ - Resources for patients and practitioners
+ - Intake template for diagnostic specificity
+ - Recommended diagrams for the published edition
