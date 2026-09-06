@@ -1,7 +1,7 @@
 # Tissue Tells the Truth, Manuscript Project
 
-**Title:** *Tissue Tells the Truth: An Osteopathic Approach to Low Back Pain*
-**Subtitle:** How Osteopathic Medicine Uncovers the Real Causes the Medical System Misses
+**Title:** *Tissue Tells the Truth*
+**Subtitle:** An Osteopathic Approach to Low Back Pain
 **Author credit:** A Practicing Osteopath
 **Approximate length:** ~64,000 words
 

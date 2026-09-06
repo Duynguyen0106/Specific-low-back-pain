@@ -1,6 +1,6 @@
 # Chapter 15: A Message to Patients: How to Advocate for Yourself
 
-If you have been told that your low back pain is “non-specific,” you are not alone, and you are not imagining your pain. Non-specific is a clinical phrase that often means “we have not found a dangerous disease,” not “there is no cause.” Those two meanings have been allowed to blur, and patients have paid for the blur with years of quiet doubt. This chapter is written for you: the person who has been scanned, prescribed, reassured, and still hurts; the person who wants to advocate without becoming adversarial; the person ready to ask for a more specific search.
+If you have been told your low back pain is “non-specific,” you are not alone, and you are not imagining the pain. The phrase usually means “we have not found a dangerous disease.” Too often it is heard as “there is no cause.” That blur has cost patients years of quiet doubt. This chapter is for you: scanned, prescribed, reassured, still hurting; ready to advocate without becoming adversarial; ready to ask for a more specific search.
 
 Pain is real. Causes exist. You are allowed to keep looking.
 
@@ -200,8 +200,6 @@ Remember that starting over does not erase prior medical work. Scans that ruled 
 
 ### A Call to Action
 
-Do not accept “non-specific” as the final word on a body that still hurts, still limps, still fears a grocery bag or a grandchild’s reach. Accept it, if at all, as a temporary clearance from surgical emergency, and then insist on the next question: *What, specifically, is impaired, and what can restore it?*
+Do not accept “non-specific” as the final word on a body that still hurts, still limps, still fears a grocery bag or a grandchild’s reach. Take it, if at all, as temporary clearance from surgical emergency, then insist on the next question: *What, specifically, is impaired, and what can restore it?*
 
-Your pain is real. It has a cause, or causes, even when they are layered and hard to name at first. You are entitled to clinicians who examine, hypothesize, treat, reassess, and refer. You are entitled to osteopathic care that listens to tissue with trained hands and to medical care that protects you from danger. You are entitled to speak until those entitlements become your actual pathway.
-
-Tissue tells the truth. Advocacy is how you make sure someone in the room is still listening. Take the next appointment, the next question, and the next specific hypothesis as acts of self-respect, calm, persistent, collaborative, and unfinished until meaningful function returns.
+Your pain is real. It has a cause, or causes, even when layered and hard to name at first. Ask for clinicians who examine, hypothesize, treat, reassess, and refer; for hands that listen and for medical care that guards against danger. Tissue tells the truth. Advocacy is how you keep someone in the room listening. The next appointment, the next question, the next specific hypothesis: those are not endings to this book. They are where your care begins again.

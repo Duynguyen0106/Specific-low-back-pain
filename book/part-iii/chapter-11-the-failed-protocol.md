@@ -4,11 +4,11 @@
 
 On a Tuesday morning I saw two people who could have been twins on a triage form.
 
-Patient One was Rachel, thirty-eight, a primary school teacher. Patient Two was Tom, forty-one, a warehouse supervisor. Both described low back pain worse with flexion. Both pointed near the lumbosacral junction. Both disliked sitting on soft sofas, putting on socks, and emptying the bottom dishwasher rack. Both had been given, by different clinicians in different postcodes, essentially the same leaflet: avoid bed rest, keep active, use heat, try these flexion-based mobility drills and knee-hug stretches, here is a core circuit, return if red flags appear. Both were intelligent. Both tried. Both returned worse or unchanged, convinced they were failing rehabilitation the way students fail exams, through insufficient character.
+Rachel, thirty-eight, taught primary school. Tom, forty-one, supervised a warehouse. Both described low back pain worse with flexion. Both pointed near the lumbosacral junction. Both disliked soft sofas, putting on socks, and the bottom dishwasher rack. Different clinicians in different postcodes had handed them essentially the same leaflet: avoid bed rest, keep active, use heat, try these flexion drills and knee-hug stretches, here is a core circuit, return if red flags appear. Both were intelligent. Both tried. Both returned worse or unchanged, convinced they were failing rehabilitation the way students fail exams: through insufficient character.
 
 They were not failing. The protocol was guessing.
 
-This chapter is about that guess (the well-intentioned standardization that helps some backs and harms or stalls others) and about the harder skill of knowing when mechanical care should stop and medical urgency should begin. “No formula” is not a romantic slogan. It is a safety practice. Formulas fail quietly until they fail loudly.
+This chapter is about that guess: well-intentioned standardization that helps some backs and stalls others, and the harder skill of knowing when mechanical care should stop and medical urgency should begin. “No formula” is a safety practice, not a romantic slogan. Formulas fail quietly until they fail loudly.
 
 ### Rachel: When Flexion Was Fuel
 
@@ -16,7 +16,7 @@ Rachel’s flexion intolerance had been interpreted as a cue to stretch into fle
 
 Examination told a different flexion story than the leaflet assumed. Rachel’s pain with flexion was accompanied by a palpable sense of lumbar segmental instability and poor control through mid-range, not simply a stiff joint needing more folding. Prone instability testing and aberrant movement patterns on return from flexion raised concern for a control-impaired, extension-preferring strategy that had been lost. Her symptomatic segments preferred a more lordotic, extension-biased world; end-range flexion under load made them feel unsafe. Hip flexion mobility was actually excessive relative to her lumbar control. Her “tight hamstrings” were often protective neural or chain tension, not a mandate for aggressive stretching.
 
-In other words, Rachel was a person for whom a flexion-biased protocol repeatedly parked her spine in its least confident range and then asked her deep system to stabilize there while grading papers. She needed an extension-biased approach: restore comfortable lordosis, train endurance of the extensors and deep stabilizers in neutral-to-extended positions, mobilize thoracic restriction that forced lumbar flexion in sitting, and temporarily avoid end-range flexion drills that her leaflet treated as virtue.
+Put plainly: Rachel was a person for whom a flexion-biased protocol repeatedly parked her spine in its least confident range and then asked her deep system to stabilize there while grading papers. She needed an extension-biased approach: restore comfortable lordosis, train endurance of the extensors and deep stabilizers in neutral-to-extended positions, mobilize thoracic restriction that forced lumbar flexion in sitting, and temporarily avoid end-range flexion drills that her leaflet treated as virtue.
 
 Within three weeks of reversing the bias (extension relief positions, thoracic extension mobility, hip hinge training that kept the lumbar spine neutral rather than rounded, and graded return to floor play with strategy rather than fear) Rachel’s dishwasher-sock complex eased. The leaflet had not been evil. It had been mismatched. Mismatch is enough to create a “failed patient.”
 

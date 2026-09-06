@@ -2,8 +2,6 @@
 
 ## An Osteopathic Approach to Low Back Pain
 
-### How Osteopathic Medicine Uncovers the Real Causes the Medical System Misses
-
 **Author:** A Practicing Osteopath
 
 ---

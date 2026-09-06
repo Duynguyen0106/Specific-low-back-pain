@@ -113,3 +113,5 @@ Motion palpation bridges the gap between the table and the patient’s life. A f
 Disagreement is not a crisis; it is information. If MRI shows a large disc extrusion with root compression and your hands find only mild lumbar texture change while the leg is neurologically compromised, trust the neurology and the image for urgent decision-making. If MRI is nearly normal and your hands find a screaming facet pattern with pelvic torsion that reproduces symptoms, trust the mechanical diagnosis for treatment while remaining alert for atypical features.
 
 The mature clinician holds both sources without forcing them into a false marriage. Patients need help with this. They have been trained by culture to treat the scan as oracle. Your job is not to trash the oracle. Your job is to interpret it in the context of a living examination. Palpation is how the living examination earns its authority.
+
+Authority without application is only atmosphere. The next chapters take the listening hand into named bodies: accountants and runners, scars and nerves, protocols that guess and toolkits that follow findings. Palpation becomes clinical only when it changes what you do next.

@@ -2,13 +2,13 @@
 
 ### Specificity Needs More Than One Map
 
-A principle becomes a practice only when it can guide decisions under uncertainty. By now you have the osteopathic pillars: structure governs function; the body is a unit; the body heals itself when obstacles are removed. Those pillars still leave a clinician in the treatment room with a person in pain and a thousand possible next moves. Which obstacle matters most today? Is this primarily a joint story, a nerve story, a breathing-and-fluid story, an energy-and-inflammation story, or a life-and-behavior story?
+You now have the pillars: structure governs function; the body is a unit; the body heals itself when obstacles are removed. Pillars do not, by themselves, tell you what to do next with the person on the table. Which obstacle matters most today? Is this a joint story, a nerve story, a breathing-and-fluid story, an energy-and-inflammation story, or a life-and-behavior story?
 
-Osteopathic medicine answers with a framework often called the five models of osteopathic care: biomechanical, neurological, respiratory-circulatory, metabolic-energy, and behavioral-biopsychosocial. Think of them not as five separate religions but as five camera angles on the same living person. A skilled osteopath moves between models, sometimes within a single visit, to find the specific driver of low back pain that a single-angle approach would miss.
+Osteopathic medicine answers with five models of care: biomechanical, neurological, respiratory-circulatory, metabolic-energy, and behavioral-biopsychosocial. Not five religions; five camera angles on one living person. A skilled osteopath moves between them, sometimes within a single visit, to find the driver a single-angle approach would miss.
 
-This chapter is where philosophy becomes method. It is also where the book’s central argument sharpens. “Non-specific low back pain” is what you get when your only model is a narrow biomechanical screen for surgical lesions, followed by a generic behavioral prescription. True specificity often appears only when you are willing to change lenses.
+Here philosophy becomes method, and the book’s argument sharpens. “Non-specific low back pain” is what you get from a narrow screen for surgical lesions followed by a generic behavioral prescription. Specificity often appears only when you change lenses.
 
-Patients should read this chapter as a translation guide: when your osteopath works on your ribs, asks about sleep, or treats your abdomen for a backache, they are not being random. They are changing models on purpose. Clinicians should read it as a discipline against hobby-horse practice, the tendency to see every problem through the technique you love most. The models are a check on our blind spots.
+Patients: when your osteopath works on your ribs, asks about sleep, or treats your abdomen for a backache, that is not randomness. That is a deliberate change of model. Clinicians: treat the models as discipline against hobby-horse practice, the habit of seeing every problem through the technique you love most.
 
 ### The Biomechanical Model
 

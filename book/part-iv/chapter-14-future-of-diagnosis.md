@@ -42,7 +42,7 @@ Perhaps the most distinctively osteopathic contribution to future taxonomy is th
 
 In future charts, “viscero-somatic referred pain” or “viscero-somatic maintenance of lumbar somatic dysfunction” would appear as legitimate working diagnoses, with clear notes on what visceral pathway is suspected and what collaborative workup is underway. That language invites integration rather than turf war.
 
-A complete replacement for NSLBP will also include discogenic pain patterns with chemical and mechanical features, stenotic neurogenic claudication where surgery is not yet indicated or not desired, instability and motor control insufficiency syndromes, thoracolumbar junction syndromes referring caudally, hip-spine syndrome, and postoperative mechanical failure syndromes. The point is not to create an infinite catalogue. It is to refuse a single residual category that erases mechanism.
+A complete replacement for NSLBP will also include discogenic pain patterns with chemical and mechanical features, stenotic neurogenic claudication where surgery is not yet indicated or not desired, instability and motor control insufficiency syndromes, thoracolumbar junction syndromes referring caudally, hip-spine syndrome, and postoperative mechanical failure syndromes. The aim is not an infinite catalogue but a refusal of any single residual category that erases mechanism.
 
 Mixed presentations will remain common. People are not single-label organisms. The advance is to document dominant and contributing mechanisms instead of hiding mixture under non-specificity.
 
