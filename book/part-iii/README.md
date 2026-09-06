@@ -1,3 +1,3 @@
-# Part III: The Clinical Reality, No Formula, Only Principles
+# Part III, The Clinical Reality: No Formula, Only Principles
 
 If Parts I and II asked you to rethink what low back pain *is*, Part III asks you to watch what osteopathic care *does* when the diagnosis is specific and the treatment is matched to the driver. There is no protocol that fits every lumbar complaint, and there never will be, because tissue does not fail according to a checklist. What you will find instead is a disciplined clinical method: listen with the hands, name the dysfunction with precision, choose technique because of the findings rather than preference, and know when the story in the tissues is telling you something medicine must not miss. The chapters that follow are the clinic floor made readable, palpation as craft, cases that refuse to be “nonspecific,” the quiet failure of one-size-fits-all programs, and a toolkit ordered by diagnosis, not by the loudness of a joint.
