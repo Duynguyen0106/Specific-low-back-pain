@@ -54,7 +54,7 @@ When the official diagnosis is non-specific, social systems often struggle to re
 
 I have sat with patients whose marriages strained under the weight of an invisible condition. I have sat with clinicians who felt helpless because the pathway ended at advice they had already given. Helplessness on both sides of the treatment room is not a minor side effect. It is part of how acute pain becomes chronic, how fear becomes habit, how a temporary protective pattern in the soft tissues becomes a long-term architecture of limitation.
 
-If we accept non-specific as the final word, we also accept a quiet fatalism: that most low back pain is a fog we can only manage, not a landscape we can read. Osteopathy refuses that fatalism, not with magical certainty, but with a disciplined curiosity about relationships the standard model tends to leave off the map.
+If we accept non-specific as the final word, we also accept a quiet fatalism: that most low back pain is a fog we can only manage, not a terrain we can read. Osteopathy refuses that fatalism, not with magical certainty, but with a disciplined curiosity about relationships the standard model tends to leave off the map.
 
 ### The Central Paradox: Non-Specific Label, Specific Pain
 
