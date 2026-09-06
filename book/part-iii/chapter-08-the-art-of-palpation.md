@@ -68,7 +68,7 @@ There is also an ethical dimension to feeling. Palpation requires consent, clear
 
 Let me place you in the room with me.
 
-Elena, fifty-one, arrives with twelve years of intermittent low back pain, worse for the last eight months. She has a folder of imaging. Two physiotherapists have given her core programs. A sports physician suggested a medial branch block if things worsen. She is not “catastrophizing.” She is tired of being competent and still hurting.
+Miriam, fifty-one, arrives with twelve years of intermittent low back pain, worse for the last eight months. She has a folder of imaging. Two physiotherapists have given her core programs. A sports physician suggested a medial branch block if things worsen. She is not “catastrophizing.” She is tired of being competent and still hurting.
 
 She sits with a flattened lumbar lordosis and a slight shift of her trunk to the left. Standing flexion shows the right posterior superior iliac spine stop early. Seated flexion equalizes somewhat, hinting that a lower extremity or innominate component may be feeding the pattern. Her neurological screen is reassuring: reflexes symmetric, no hard motor loss, straight leg raise uncomfortable but not classic for high-tension radiculopathy.
 
@@ -76,7 +76,7 @@ Prone, my hands meet the lumbar tissues. The right L4–L5 region is denser, sli
 
 None of these findings appeared as a single sentence on her MRI report. The report mentioned mild disc bulging and facet change—true enough, and possibly relevant as a tissue that becomes symptomatic when mechanics fail, but incomplete as a map of *why her system is failing now*. Palpation wrote a working story: a pelvic and hip complex driving compensatory lumbar facet loading, with a thoracolumbar junction that has become a secondary traffic jam. Treatment would need to address the drivers, not merely grind away at the sore lumbar segment forever.
 
-When I explained this in plain language—your hip and pelvis are asking your low back to twist for them—Elena’s eyes filled, not with drama but with recognition. “That is exactly how it feels when I stand at the sink,” she said. Palpation had not only gathered data; it had restored coherence to a person who had been living inside a fragmented medical story.
+When I explained this in plain language—your hip and pelvis are asking your low back to twist for them—Miriam’s eyes filled, not with drama but with recognition. “That is exactly how it feels when I stand at the sink,” she said. Palpation had not only gathered data; it had restored coherence to a person who had been living inside a fragmented medical story.
 
 ### Listening Through Layers
 

@@ -2,26 +2,36 @@
 
 **Title:** *Tissue Tells the Truth: An Osteopathic Approach to Low Back Pain*  
 **Subtitle:** How Osteopathic Medicine Uncovers the Real Causes the Medical System Misses  
-**Author credit:** A Practicing Osteopath
+**Author credit:** A Practicing Osteopath  
+**Approximate length:** ~63,000 words
 
-This repository holds the working manuscript as Markdown files organized by front matter, numbered parts, chapters, and back matter. Tone throughout aims to be passionate but professional, mature, and non-adversarial—advocating collaboration between osteopathic and allopathic medicine rather than competition.
+This repository holds the complete working manuscript as Markdown files organized by front matter, numbered parts, chapters, and back matter. Tone throughout aims to be passionate but professional, mature, and non-adversarial—advocating collaboration between osteopathic and allopathic medicine rather than competition.
+
+**Central argument:** The label “Non-Specific Low Back Pain” is a failure of the current medical model, not a reflection of reality. Osteopathy offers a path to true specificity through palpation, clinical reasoning, and a holistic understanding of the body’s interconnected systems.
 
 ## File Structure
 
 ```
 book/
-├── README.md                          ← this file
+├── README.md
+├── FULL-MANUSCRIPT.md                 ← concatenated manuscript (generated)
 ├── front-matter/
-│   ├── title-page.md                  ← title, subtitle, author, dedication, copyright, TOC
-│   └── introduction.md                ← book introduction (when present)
-├── part-i/                            ← Part I chapters (The Lie of “Non-Specific”)
-├── part-ii/                           ← Part II chapters (Tissue Tells the Truth)
-├── part-iii/                          ← Part III chapters (Finding the Cause)
-├── part-iv/
-│   ├── README.md                      ← Part IV introduction
-│   ├── chapter-13-where-models-meet.md
-│   ├── chapter-14-future-of-diagnosis.md
-│   └── chapter-15-message-to-patients.md
+│   ├── title-page.md
+│   └── introduction.md
+├── part-i/                            ← The Problem with “Non-Specific”
+│   ├── README.md
+│   ├── chapter-01-…
+│   ├── chapter-02-…
+│   └── chapter-03-…
+├── part-ii/                           ← The Osteopathic Paradigm
+│   ├── README.md
+│   └── chapters 04–07
+├── part-iii/                          ← The Clinical Reality
+│   ├── README.md
+│   └── chapters 08–12
+├── part-iv/                           ← Bridging the Gap
+│   ├── README.md
+│   └── chapters 13–15
 └── back-matter/
     ├── glossary.md
     └── appendix.md
@@ -32,58 +42,39 @@ book/
 ### Recommended reading / export order
 
 1. `front-matter/title-page.md`
-2. Part I chapters (in chapter number order), when present
-3. Part II chapters, when present
-4. Part III chapters, when present
-5. `part-iv/README.md` (part introduction)
-6. `part-iv/chapter-13-where-models-meet.md`
-7. `part-iv/chapter-14-future-of-diagnosis.md`
-8. `part-iv/chapter-15-message-to-patients.md`
-9. `back-matter/glossary.md`
-10. `back-matter/appendix.md`
+2. `front-matter/introduction.md`
+3. `part-i/README.md` then chapters 1–3
+4. `part-ii/README.md` then chapters 4–7
+5. `part-iii/README.md` then chapters 8–12
+6. `part-iv/README.md` then chapters 13–15
+7. `back-matter/glossary.md`
+8. `back-matter/appendix.md`
 
-### Concatenate to a single Markdown file (example)
-
-From the `book/` directory:
+### Concatenate to a single Markdown file
 
 ```bash
-# Adjust part-i/ii/iii paths as those chapters are added
-cat front-matter/title-page.md \
-  part-iv/README.md \
-  part-iv/chapter-13-where-models-meet.md \
-  part-iv/chapter-14-future-of-diagnosis.md \
-  part-iv/chapter-15-message-to-patients.md \
-  back-matter/glossary.md \
-  back-matter/appendix.md \
-  > /tmp/tissue-tells-the-truth-manuscript.md
+cat \
+  book/front-matter/title-page.md \
+  book/front-matter/introduction.md \
+  book/part-i/README.md \
+  book/part-i/chapter-*.md \
+  book/part-ii/README.md \
+  book/part-ii/chapter-*.md \
+  book/part-iii/README.md \
+  book/part-iii/chapter-*.md \
+  book/part-iv/README.md \
+  book/part-iv/chapter-*.md \
+  book/back-matter/glossary.md \
+  book/back-matter/appendix.md \
+  > book/FULL-MANUSCRIPT.md
 ```
 
-### Pandoc (optional)
+## Audience & Tone
 
-If Pandoc is installed, convert the assembled Markdown to DOCX or PDF for editing and review:
+Written for two audiences at once: (1) patients frustrated by the “non-specific” label, and (2) osteopaths, physiotherapists, and medical professionals seeking the osteopathic rationale. Clear, engaging prose; jargon explained when used; evidence referenced narratively (NICE, WHO, imaging research, OMT trials).
 
-```bash
-pandoc /tmp/tissue-tells-the-truth-manuscript.md -o Tissue_Tells_the_Truth.docx
-```
+## Publishing Notes
 
-### Word-count targets
-
-| Component | Target |
-|-----------|--------|
-| Each full chapter | 3,500–4,500 words |
-| Glossary | ~1,500–2,000 words |
-| Appendix | ~2,500–3,500 words |
-| Part introductions | Short framing essays |
-
-Check counts with:
-
-```bash
-wc -w front-matter/*.md part-iv/*.md back-matter/*.md
-```
-
-## Editorial Notes
-
-- Prefer full prose suitable for a trade / professional nonfiction audience.
-- Preserve the book’s dual address: informed patients and clinicians.
-- Keep medical claims careful: celebrate osteopathic specificity without dismissing acute medical or surgical excellence.
-- Diagrams listed in the appendix are recommended for the published edition; they are described in text rather than embedded as binary assets in this Markdown workflow.
+- An invited foreword (respected osteopath, pain researcher, or former patient) is recommended for the published edition.
+- Diagrams suggested for print: fascial lines, dermatomes, viscero-somatic reflexes, and flowcharts comparing the allopathic “rule-out” algorithm vs. the osteopathic “find-out” algorithm.
+- Clinical cases are composite and anonymized for teaching; they are not identifiable patient records.

@@ -30,25 +30,27 @@ No part of this manuscript may be reproduced, distributed, or transmitted in any
 - Title Page
 - Dedication
 - Copyright and Disclaimer
+- Foreword *(invited — placeholder in this manuscript)*
+- Introduction
 - Table of Contents
 
-### Part I — The Lie of “Non-Specific”
-- Chapter 1: The Diagnosis That Stops Thinking
-- Chapter 2: What Scans Show—and What They Cannot
-- Chapter 3: Pills, Injections, and the Limits of Symptom Management
-- Chapter 4: When Patients Are Told Nothing Is Wrong
+### Part I — The Problem with “Non-Specific”
+- Chapter 1: The Diagnosis That Means Nothing
+- Chapter 2: The Allopathic Formula: Pills, Rest, and Generic Exercises
+- Chapter 3: The Red Flag Dilemma
 
-### Part II — Tissue Tells the Truth
-- Chapter 5: Osteopathic Principles for a Mechanical Age
-- Chapter 6: The Language of Palpation (TART and Beyond)
-- Chapter 7: Structure and Function in the Lumbopelvic Unit
-- Chapter 8: Fascia, Compensation, and the Body as Continuity
+### Part II — The Osteopathic Paradigm: A Philosophy of Specificity
+- Chapter 4: Structure Governs Function
+- Chapter 5: The Body Is a Unit
+- Chapter 6: The Body Possesses Self-Healing Mechanisms
+- Chapter 7: The Five Models of Osteopathic Care
 
-### Part III — Finding the Cause
-- Chapter 9: Lumbar Facet and Disc Patterns
-- Chapter 10: The Sacroiliac Joint and Load Transfer
-- Chapter 11: Viscero-Somatic Connections to Low Back Pain
-- Chapter 12: Myofascial Pain and the Compensatory Spine
+### Part III — The Clinical Reality: No Formula, Only Principles
+- Chapter 8: The Art of Palpation: Listening to the Tissues
+- Chapter 9: Case Studies in Specificity (Part 1: Biomechanical Drivers)
+- Chapter 10: Case Studies in Specificity (Part 2: Visceral and Neurological Drivers)
+- Chapter 11: The Failed Protocol
+- Chapter 12: The Toolkit: Overview of Osteopathic Techniques
 
 ### Part IV — Bridging the Gap: A Vision for Integrated Care
 - Chapter 13: Where the Medical Model Fails, Osteopathy Succeeds
